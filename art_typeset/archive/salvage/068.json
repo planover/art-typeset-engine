@@ -1,0 +1,59 @@
+{
+ "no": 68,
+ "id": "",
+ "title": "免费的垃圾桶",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/mayuan_angler_full.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 166,
+  "dt": "10-16 11:38",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "免费的垃圾桶",
+  "body": "弱势思维的人免费向你倾诉，只是想发泄自己的情绪，和得到理解和认可，并不是真的想变好，而这个时候一旦你选择听了，你就相当于做了一次<a>免费垃圾桶</a>，你不仅听了，还给了建议，你可能就是在<a>多此一举</a>，事后他可能会怨你，因为你没有安分守己做好一个<a>垃圾桶的职责</a>。",
+  "en": "A person with a weak mindset pours their heart out to you for free. They only want to vent their emotions and be understood and approved — they do not truly want to get better. Once you choose to listen, you have become a free trash can. If you listen and even offer advice, you are probably overdoing it. Later they may blame you — because you did not stay in your lane and do your job as a trash can.",
+  "credit": "原作 马远《寒江独钓图》约1195年 · 南宋院体画 · 绢本水墨 · 茶褐"
+ },
+ "params": {
+  "crop-x": "0.42",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "kai",
+  "title-size": "96",
+  "title-weight": "700",
+  "spacing": "8",
+  "body-size": "27",
+  "body-spacing": "1",
+  "line-gap": "1.62",
+  "wrap": "30",
+  "en-size": "26",
+  "en-width": "62%",
+  "en-gap": "44",
+  "en-fill": "218,205,178",
+  "credit-size": "18",
+  "credit-fill": "178,162,130",
+  "fill": "238,226,196",
+  "accent-fill": "232,178,98",
+  "inline-accent": "<a>",
+  "shadow": "3,5,16,110",
+  "align": "right",
+  "pos": "top",
+  "body-pos": "upper",
+  "body-y-shift": "331",
+  "reflect": "0.5",
+  "grain": "0.25",
+  "credit-bottom": "on"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "弱势思维的人免费向你倾诉只是想发泄自己的情绪和得到理解和认可并不是真的想变好而这个时候一旦你选择听了你就相当于做了一次免费垃圾桶你不仅听了还给了建议你可能就是在多此一举事后他可能会怨你因为你没有安分守己做好一个垃圾桶的职责_原作马远寒江独钓图约1195年南宋院体画绢本水墨茶褐_20261016_1040.png",
+  "rc": 0,
+  "candidates_tested": 7
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

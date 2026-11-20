@@ -1,0 +1,153 @@
+{
+  "id": "Q26",
+  "no": 94,
+  "title": "你改变不了任何人",
+  "body": "永远不要试图去改变一个人，是任何人。|因为你改不了，很多人连自己想改变自己都很难，|我们又怎么可能去改变别人呢，|改变意味着要<a>对抗一个人的基因</a>，是反人性的，|而人性<a>只能顺应</a>，就好像你改变不了世界和社会，|只能调整和适应。",
+  "en": "Never try to change a person, anyone. Because you cannot: most people find it hard enough to change themselves, so how could we change others? Change means fighting a person's genes, it goes against human nature, and human nature can only be followed, just as you cannot change the world and society, only adjust and adapt.",
+  "credit": "原作 威廉·特罗斯特·理查兹《静海》1883 · 布面油画",
+  "source": {
+    "page": 97,
+    "segments": [
+      "永远不要试图去改变一个人，是任何人。因为你改不了，很多人连自己想改变自己都很难，我们又怎么可能去改变别人呢，改变意味着要对抗一个人的基因，是反人性的，而人性只能顺应，就好像你改变不了世界和社会，只能调整和适应。"
+    ],
+    "flat_text": "85\n你改变不了任何人\n永远不要试图去改变一个人，是任何人。\n因为你改不了，很多人连自己想改变自己都很难，我们又怎么可能去改变别\n人呢，改变意味着要对抗一个人的基因，是反人性的，而人性只能顺应，就好像\n你改变不了世界和社会，只能调整和适应。\n所以你想跟一个人保持良好的关系，就要顺应对方的人性，而不是去逆对方\n的人性，逆对方的人性，对方会有逆反心理，你们的关系就会变得危险。\n改变命运就是对抗人性\n大多数人对改变命运有一个误解，总觉得说自己是一个普通人，突然有一天\n遇到一个贵人，能带自己翻身暴富就叫政变命运。生际上不是的，改变命运是一\n个循序清进需要积累的过程，然后它遇到一个合适时间点，一个合适的机会，也\n就是天时地利人和，它才能形成一个大的改变。\n而在你没有那个积累的过程的时候，即便是有一个很好的机会放到你面前的\n时候，你也是抓不住的，你也掌控不了，那些能够改变命运的人，实际上他们在\n原来他那个位置上，有些事情他已经能够做的很好了，然后，后面又遇到了一个\n非常有挑战，非常好的机会，他才有那个能力去突破，去接住。\n而大部分的人会被市场上鱼龙混杂的人误导，总想说通过画一个符，补一个\n财库，搞一些歪门邪道，就能改变命运了，这是很荒谬的，改变命运就是对抗基\n因，如果一个人先天的一些性格因素，习惯，行为没有让他过得很好，那他就要\n尝试着把原来的性格，习惯都反过来，顺应天性是一种本能。\n比如喜欢吃甜食，喜欢吃辣的，喜欢抽烟，它是发自内心的，不需要付出什\n么努力和痛苦的，但你要改掉这些习惯，它就是反人性的，你不吃，不抽，你就\n会觉得难受，你控制不住去吃去抽，就会让你的身体不健康，这就是改变命运的\n逻辑。\n宗教和命理它不是一回事，命理讲的是规律，是道，宗教讲的是精神，对于\n"
+  },
+  "meta": {
+    "essay": "你改变不了任何人",
+    "artist": "威廉·特罗斯特·理查兹（William Trost Richards, 1833–1905）",
+    "painting": "静海（Quiet Seascape）",
+    "year": "1883",
+    "medium": "布面油画",
+    "collection": "明尼阿波利斯美术馆（80.67）",
+    "license": "Public domain（PD-Art）",
+    "layout": "亮底深字＋横排：整块压进雾光天空带（bg_std 7–10），标题单行行楷＋正文六行楷体按标点手工断行（避头尾）＋英文五行；与 Q25 暗底奶油字＋标题 arc 全面对跖",
+    "accent": "绛朱 178,48,30 ＋ 1px 发丝下划线（13.11%）",
+    "score": 92,
+    "final_png": "你改变不了任何人_原作威廉特罗斯特理查兹静海1883布面油画美国发光主义雾光天空橄榄绿海浪_20261112_1453.png",
+    "draft": "v12",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "en1",
+      "en2",
+      "en3",
+      "en4",
+      "en5",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      7
+    ]
+  },
+  "params": {
+    "title_font": "xingkai",
+    "body_font": "kai",
+    "credit_font": "song",
+    "en_font": "garamond",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:178,48,30:235",
+    "pos": "middle",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "-190",
+    "wrap": "0",
+    "block_width": "48%",
+    "en_width": "780",
+    "title_size": "76",
+    "body_size": "32",
+    "en_size": "26",
+    "credit_size": "21",
+    "title_gap": "24",
+    "en_gap": "20",
+    "credit_gap": "20",
+    "title_lh": "1.20",
+    "line_gap": "1.40",
+    "scrim": "0",
+    "fill": "46,38,30",
+    "en_fill": "56,48,38",
+    "credit_fill": "66,55,44",
+    "accent_fill": "178,48,30",
+    "text_grain": "0.12",
+    "grain": "0.10",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "回 PDF 97（印刷 85）原页取证：篇名「你改变不了任何人」首两段 105 字整段 in 原页、收句号、敏感词零命中；90–94 命理/阶层篇目跳过，96「成熟」与 Q24 主题重复跳过",
+    "see": {
+      "contrast": [
+        5.83,
+        5.76,
+        5.93,
+        5.86,
+        5.84,
+        5.82,
+        5.81,
+        4.71,
+        4.73,
+        4.75,
+        4.7,
+        4.66,
+        3.95
+      ],
+      "accent_ratio": 0.1311,
+      "bbox": {
+        "top": 509,
+        "bottom": 893,
+        "left": 383,
+        "right": 383
+      },
+      "bg_std_max": 10.1,
+      "accent_pixels": 2859,
+      "body_ink": 21811,
+      "layers": 13,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False, body_band_slice=(1,7), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-12 14:53",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "选画验收口径缺一条：16×8 网格（96px 格）测不出柳枝/细梢，中段看着匀（中位 197）实际局部 std 40；我把「画好」当成「好用」，没有按目标文字块的宽×高反查干净矩形",
+      "prevention": "出图前用 48px 滑窗扫「最大干净矩形」（median≥150 且 std≤25），要求宽高 ≥ 目标块尺寸；沈周《柳岸亭榭图》实测仅 700×300 装不下 105 字＋全译 → 换画，Richards《静海》1536×1024 一次通过"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "沈周 cx65 上块 62% 宽：标题压远山（3.54:1）、正文压柳枝（bg_std 42）、强调只测到 0.54%",
+        "prevent": "亮底图必须先按目标块形状量干净区，不能只看整体中位数"
+      },
+      {
+        "round": 2,
+        "improve": "收窄 46% 并下移、补 en_width，仍 std 41–42；改窄栏 33% 后英文爆成 8 行、块高 900 撞石绿（1.96:1）",
+        "prevent": "窄栏会把英文挤成多行反而撑高块体，行数×行距必须一起算"
+      },
+      {
+        "round": 3,
+        "improve": "48px 滑窗扫描三档裁切，实证该画最大干净矩形仅 700×300，装不下 105 字＋全译 → 按 GSTD 换画（Richards《静海》干净区 1536×1024）",
+        "prevent": "「先定字号再削内容」不只对文案成立，对选画同样成立：内容定死时该换的是画"
+      },
+      {
+        "round": 4,
+        "improve": "Richards 首版全绿但英文 3.60/款识 2.87：en/credit 取色过浅；加深后 4.66/3.95 达标，同时按 13 条真实行带声明 roles",
+        "prevent": "亮底上小字（25/21px）的 p1 比大字段浅得多，取色要按实测反推，不能按视觉「差不多」"
+      },
+      {
+        "round": 5,
+        "improve": "裁掉画面四周装裱黑边重做底图，上半幅 std 降到 5–12；正文 28→32px、强调下划线 2→1px 把占比从 15.24% 收回 13.11%",
+        "prevent": "博物馆照片的黑框会被当成「边框」，也会拉高边缘 std，先裁边再测"
+      },
+      {
+        "round": 6,
+        "improve": "--wrap 24 自动折行让第二行以「，」顶格（避头尾违规）→ 改按标点手工断 6 行，并把该缺陷做成 preflight 门禁",
+        "prevent": "断行不能交给字符数计数；门禁新增 check_line_breaks，行首收尾标点直接 error"
+      }
+    ],
+    "score": 92,
+    "final_png": "你改变不了任何人_原作威廉特罗斯特理查兹静海1883布面油画美国发光主义雾光天空橄榄绿海浪_20261112_1453.png"
+  }
+}

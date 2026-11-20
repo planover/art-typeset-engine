@@ -1,0 +1,110 @@
+{
+  "id": "Q17",
+  "no": 85,
+  "title": "越成长，抱怨越少",
+  "body": "人越长大，对别人，|对外界的抱怨就会<a>越来越少</a>，|因为你对人性了解的越多，|能够理解的就越多，就不会容易对他人失望，|因为从人性的角度，|你知道那都是符合常理的，|人只有让自己越来越<a>聪明</a>，|别人伤害你的机会才会越来越少。",
+  "en": "The older you grow, the less you complain about others and about the world. The more you understand human nature, the more you can make peace with it, and the less easily you are let down - because, seen through human nature, it is all simply how things are. The wiser you become, the fewer chances others have to hurt you.",
+  "credit": "原作 弘仁《山水图册》清初 · 纸本水墨设色",
+  "source": {
+    "page": 48,
+    "segments": [
+      "人越长大，对别人，对外界的抱怨就会越来越少，因为你对人性了解的越多，能够理解的就越多，就不会容易对他人失望，因为从人性的角度，你知道那都是符合常理的，人只有让自己越来越聪明，别人伤害你的机会才会越来越少。"
+    ],
+    "flat_text": "36他会当成理所应当，可当你停止提供，对方就会觉得是你，让他失去了属于他的东西，他并不会觉得那原本就不属于他。人性就是这样的，农夫与蛇，乞丐与商人，免费对人太好，你的付出会变得廉价，甚至还会让别人憎恨你，只有在让对方有所付出的基础上帮忙，别人才会珍惜你的好。暴露需求感，容易让人趁机而入一个女孩子，如果你的生存处境并没有什么优质的男性的话，是没有必要表现的柔柔弱弱，更没必要暴露对爱情，以及被照顾很有需求感，因为这个时候，你很容易吸引到一些心里没数的劣质人群，他们一个个就好像是时刻都在寻猎物的狼虎，这个时候你一旦表现得想谈恋爱，渴望被照顾的时候，就会有一群劣质的人趁机而入，滑稽的是在他们得到之后，并不会觉得你有多珍贵，反而还会觉得他们的存在，解决了你的寂寞，这个时候你几乎是零价值的。越成长，抱怨越少人越长大，对别人，对外界的抱怨就会越来越少，因为你对人性了解的越多，能够理解的就越多，就不会容易对他人失望，因为从人性的角度，你知道那都是符合常理的，人只有让自己越来越聪明，别人伤害你的机会才会越来越少。运气差的时候不做大的决定人在运气很差的时候，做的决定基本上都不会有对的，因为越是运气差的时候，越考验一个人的心性，所以运气差的时候，更像是面试时候的压力测试，心性差的，很容易在那个当下不管不顾去做一些愚蠢的选择和决定，然后导致运气更差，以至于后面一连串的错误。人越是运气差的时候，越应该冷静淡定，学会在可控范围内及时止损，而不"
+  },
+  "meta": {
+    "essay": "越成长，抱怨越少",
+    "artist": "弘仁（渐江）",
+    "painting": "山水图册",
+    "year": "清初",
+    "score": 91,
+    "layout": "中英左右双栏对读＋跟随结构线",
+    "accent": "深朱＋朱红细下划线",
+    "final_png": "越成长抱怨越少_原作弘仁山水图册清初纸本水墨设色米灰淡赭冷逸简淡_20261106_1429.png"
+  },
+  "_salvage": {
+    "script": "q17_render.py",
+    "base": "q17_base.png",
+    "reference_out": "q17_final.png",
+    "note": "从渲染脚本自动抢救；source 段待补原文逐字校验"
+  },
+  "params": {
+    "title_font": "song",
+    "body_font": "kai",
+    "credit_font": "hei",
+    "en_font": "garamond",
+    "en_italic": "on",
+    "inline_accent": "<a>",
+    "scrim": "0",
+    "credit_gap": "32",
+    "align": "left",
+    "wrap": "22",
+    "x_shift": "60",
+    "y_shift": "60",
+    "title_align": "center",
+    "en_pos": "top",
+    "en_align": "right",
+    "en_width": "480",
+    "en_x_shift": "-188",
+    "en_y_shift": "60",
+    "aux_align": "center",
+    "title_size": "80",
+    "body_size": "28",
+    "en_size": "25",
+    "credit_size": "21",
+    "accent_fill": "112,32,22",
+    "fill": "32,29,25",
+    "en_fill": "38,34,29",
+    "credit_fill": "40,36,31",
+    "text_grain": "0.14",
+    "grain": "0.12",
+    "accent_underline": "2:10:172,54,36:150"
+  },
+  "pdca": {
+    "go": {
+      "source_page": 48,
+      "verbatim": "1 段逐字",
+      "probed": true
+    },
+    "see": {
+      "contrast": [
+        7.16,
+        7.24,
+        7.19,
+        7.28,
+        7.29,
+        7.29,
+        7.34,
+        7.36,
+        7.35,
+        6.41
+      ],
+      "accent_ratio": 0.0688,
+      "bbox": {
+        "top": 129,
+        "bottom": 82,
+        "left": 121,
+        "right": 248
+      },
+      "ok": false
+    },
+    "think": {
+      "root_cause": "天然暗/亮区放字，避开衬底",
+      "prevention": "写进 spec 硬门槛与 preflight 断言"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "选画探针 + 定位落暗区",
+        "prevent": "固化亮度带第零条"
+      },
+      {
+        "round": 2,
+        "improve": "字号/强调/衬底微调至三项数字达标",
+        "prevent": "verify 不达标不落盘"
+      }
+    ],
+    "score": 91,
+    "final_png": "越成长抱怨越少_原作弘仁山水图册清初纸本水墨设色米灰淡赭冷逸简淡_20261106_1429.png"
+  }
+}

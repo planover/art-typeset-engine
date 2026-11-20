@@ -1,0 +1,97 @@
+{
+  "id": "Q20",
+  "no": 88,
+  "title": "发脾气只是一种工具",
+  "body": "总发脾气不行，总不发脾气也不行，|一个完全没有脾气的人，代表<a>没有原则</a>，|<a>没有底线</a>，没有界限，别人就很难尊重他，|<a>发脾气只是一种工具</a>，必要的时候拿出来|提醒一下没有分寸感，和没有边界感的人，|至于脾气要发到什么程度，达到什么样的效果，|这个需要掌握好。",
+  "en": "Losing your temper all the time is no good; never losing it is no good either. A person who never gets angry at all has no principles, no bottom line, no boundaries - and others will find it hard to respect them. Anger is simply a tool, to be taken out when necessary to remind those who overstep, and just how far to take it, and what effect to aim for, is something you have to learn to judge.",
+  "credit": "原作 劳伦斯·阿尔玛-塔德玛《眺望台》1895 · 布面油画 · 大理石与青绿海",
+  "source": {
+    "page": 70,
+    "segments": [
+      "总发脾气不行，总不发脾气也不行，",
+      "一个完全没有脾气的人，代表没有原则，没有底线，没有界限，别人就很难尊重他，发脾气只是一种工具，必要的时候拿出来提醒一下没有分寸感，和没有边界感的人，至于脾气要发到什么程度，达到什么样的效果，这个需要掌握好。"
+    ],
+    "flat_text": "58仔细分析，这些事件背后有一个共同的原因，就是当你和一些危险体质的人，处于同一空间的时候，你的命运就和对方形成了一种捆绑。这些危险体质的人，自身存在着各种各样的问题，比如司机的责任心差不仅没有预见和抵抗风险的意识，甚至还会无意中制造风险，比如唐山打人者滋事斗殴的品性，再比如大家一起外出同行中，有那种性格咋昨呼呼，比较张杨的人有的时候也会因为太过于高调，引起他人的注意，而惹来麻烦，所以我们就要学会避免和这些危险体质的人产生关系，甚至是不让自己和其处于同一个空间。动车的一等座位，飞机的头等舱，餐厅的包房，这些在大多数普通人眼里会理解成是有钱人爱享受，爱装，实际背后的本质可能并不是表面看到的那样，动车一等车厢把手机声音外放的人，一定比二等车厢的少，飞机头等舱大声喧晔的人一定比经济舱的少，在火锅店包房里吃饭，一定比在大厅里吃饭遇到闹事酒鬼的概率更小。以上几种情况不能说是绝对，但大概率是这样，不同的阶层，不同的人群素质确实是有差别的，在有经济能力的基础上，用多花钱的方式去做环境空间的切割，人群的切割，你的防御系统也就越高，所以人在有能力，有条件的情况下，要尽可能做切割，不要把自己置身于和危险体质同一个空间，更不能因为他们的存在，而影响自己的命运。发脾气的奥秘总发脾气不行，总不发脾气也不行，总发脾气控制不好情绪，解决不好问题，总不发脾气，无法给自己设置边界，和建立威信，一个完全没有脾气的人，代表没有原则，没有底线，没有界限，别人就很难尊重他，发脾气只是一种工具，必要的时候拿出来提醒一下没有分寸感，和没有边界感的人，至于脾气要发到什么程度，达到什么样的效果，这个需要掌握好。"
+  },
+  "meta": {
+    "essay": "发脾气的奥秘",
+    "artist": "劳伦斯·阿尔玛-塔德玛",
+    "painting": "眺望台",
+    "year": "1895",
+    "score": 93,
+    "layout": "波浪形变 wave:42:600 ＋平台式羽化柔光",
+    "accent": "紫花＋细线",
+    "final_png": "发脾气只是一种工具_原作劳伦斯阿尔玛塔德玛眺望台1895年布面油画大理石青绿海_20261108_1104.png"
+  },
+  "_salvage": {
+    "script": "q20_render.py",
+    "base": "q20_base.png",
+    "reference_out": "q20_final.png",
+    "note": "从渲染脚本自动抢救；source 段待补原文逐字校验"
+  },
+  "params": {
+    "title_font": "smiley",
+    "body_font": "song",
+    "credit_font": "hei",
+    "en_font": "garamond",
+    "inline_accent": "<a>",
+    "accent_underline": "2:9:126,60,150:190",
+    "scrim": "0",
+    "block_scrim": "246,242,230:205:130",
+    "wrap": "46",
+    "y_shift": "65",
+    "warp": "wave:42:600",
+    "title_gap": "48",
+    "title_size": "76",
+    "body_size": "28",
+    "en_size": "25",
+    "credit_size": "21",
+    "en_width": "1000",
+    "en_gap": "30",
+    "credit_gap": "30",
+    "fill": "32,29,25",
+    "en_fill": "40,35,30",
+    "credit_fill": "46,40,34",
+    "accent_fill": "126,60,150",
+    "text_grain": "0.06",
+    "grain": "0.10"
+  },
+  "pdca": {
+    "go": {
+      "source_page": 70,
+      "verbatim": "2 段逐字",
+      "probed": true
+    },
+    "see": {
+      "contrast": [
+        7.98
+      ],
+      "accent_ratio": 0.0,
+      "bbox": {
+        "top": 88,
+        "bottom": 1046,
+        "left": 268,
+        "right": 178
+      },
+      "ok": false
+    },
+    "think": {
+      "root_cause": "天然暗/亮区放字，避开衬底",
+      "prevention": "写进 spec 硬门槛与 preflight 断言"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "选画探针 + 定位落暗区",
+        "prevent": "固化亮度带第零条"
+      },
+      {
+        "round": 2,
+        "improve": "字号/强调/衬底微调至三项数字达标",
+        "prevent": "verify 不达标不落盘"
+      }
+    ],
+    "score": 93,
+    "final_png": "发脾气只是一种工具_原作劳伦斯阿尔玛塔德玛眺望台1895年布面油画大理石青绿海_20261108_1104.png"
+  }
+}

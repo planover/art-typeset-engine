@@ -1,0 +1,142 @@
+{
+  "id": "Q31",
+  "no": 99,
+  "title": "执着，说明你见得太少",
+  "body": "见得<a>少</a>了，就会特别容易执着，|对一个人执着，对一件事执着，对一个东西执着，|当你执着于某个人，某个东西的时候，|说明你还未曾拥有，或者无法真正拥有。",
+  "en": "Seeing too little, one clings easily — to a person, to a thing, to an outcome. To cling to someone or something is to admit you have never truly had it, or never can. Once you have seen more and possessed more, you no longer hold on so tightly; the more you have seen, the calmer you become.",
+  "credit": "原作 托马斯·费恩利（Thomas Fearnley, 1802–1842）《风景习作（Landscape study）》1833 · 纸本油画",
+  "source": {
+    "doc": "醒与悟1.0.md",
+    "anchor": "s213",
+    "page": 112,
+    "segments": [
+      "见得少了，就会特别容易执着，对一个人执着，对一件事执着，对一个东西执着，当你执着于某个人，某个东西的时候，说明你还未曾拥有，或者无法真正拥有。"
+    ],
+    "flat_text": "见得少了，就会特别容易执着，对一个人执着，对一件事执着，对一个东西执着，当你执着于某个人，某个东西的时候，说明你还未曾拥有，或者无法真正拥有。\n\n当你执着于某个人时，说明你未曾得到和真正拥有，所以不甘心，念念不忘，所以能被人拿捏，当你见得多了，拥有过，你就不会特别对一个人执着和念念不忘，见得越多，也越坦然，因为一个人，一件事，就不谈定了，说明见得世面少。"
+  },
+  "meta": {
+    "essay": "执着，说明你见得太少",
+    "artist": "托马斯·费恩利（Thomas Fearnley, 1802–1842）",
+    "painting": "风景习作（Landscape study）",
+    "year": "1833",
+    "medium": "纸本油画",
+    "collection": "挪威国家美术馆藏（NG.M.02598）",
+    "license": "Public domain（PD-Art / PD-old-auto-expired，1842 年卒；馆藏照片 CC BY 4.0）",
+    "layout": "亮底深字＋文字压上半幅极净浅色天空（y200–1000 std 8–12，天然纯净无需烘底）＋下半保留极简地平线、远山、水面与疏落树丛——「未见全貌时的执着 vs 见多后的坦然」的视觉双关；马善政毛笔标题＋思源宋正文四行按标点手工断行＋Times 英文＋霞鹜文楷款识四体混排；与 Q30 深蓝水面镜像／下半块／得意黑标题全面对跖",
+    "accent": "绛朱 136,84,64 ＋ 单字强调「少」（14.18%）",
+    "score": 94,
+    "final_png": "执着说明你见得太少_原作托马斯费恩利风景习作1833纸本油画挪威国家美术馆空旷地平线_20261119_1529.png",
+    "draft": "v5",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "en1",
+      "en2",
+      "en3",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      5
+    ]
+  },
+  "params": {
+    "title_font": "mashan",
+    "body_font": "serif",
+    "en_font": "times",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "0:9:136,84,64:140",
+    "accent_fill": "136,84,64",
+    "fill": "16,14,12",
+    "en_fill": "22,18,14",
+    "credit_fill": "26,22,18",
+    "pos": "top",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "40",
+    "wrap": "0",
+    "block_width": "80%",
+    "en_width": "1200",
+    "title_size": "84",
+    "body_size": "36",
+    "en_size": "27",
+    "credit_size": "21",
+    "title_gap": "32",
+    "en_gap": "18",
+    "credit_gap": "36",
+    "title_lh": "1.16",
+    "line_gap": "1.22",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟1.0.md》锚点 s187（印刷 117）起筛除：s187 姿态（与 Q25/Q27 撞链）、s188 命运结构（八字词）、s189 最有效的拒绝（蠢人标签）、s190 厉害比对他好重要（与 Q27/Q30 撞链）、s192 朋友圈价值（命理词）、s197 情绪（阶层词）、s199 量力而为（弱者/廉价词）、s200 不被情绪利用（与 Q26 撞）、s202 受气体质（与 Q27 撞）、s209 姿态放很低（脑残粉标签）、s212 费力不讨好（拯救情结）、s214 隐性价值（两性标签）整篇跳过；s213 第一段 71 字定稿（第二段 OCR 损坏整段跳过），逐字断言 6/6",
+    "see": {
+      "contrast": [
+        12.86,
+        13.11,
+        12.87,
+        12.55,
+        12.12,
+        8.86,
+        8.74,
+        8.72,
+        7.16
+      ],
+      "accent_ratio": 0.1418,
+      "bbox": {
+        "top": 105,
+        "bottom": 1439,
+        "left": 189,
+        "right": 189
+      },
+      "bg_std_max": 12.5,
+      "accent_pixels": 2203,
+      "body_ink": 15533,
+      "layers": 9,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False, body_band_slice=(1,5), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-19 15:29",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "71 字极短文本＋2 字实心强调（执着）导致强调占比 16.5–17.2% 超标：分母是正文墨像素（约 1.55 万），笔画密集的 2 字占比天然偏高；下调下划线 alpha、降色饱和、去下划线均无效（16.4→16.5%），证明分子主体是强调字本身而非下划线",
+      "prevention": "① 极短文本（<80 字）的强调必须选笔画少的字——本张改「执着」（2字浓墨）为「少」（1字），占比降至 14.18% 且语义仍在；② 强调方式（颜色/下划线）不改变占比量级时，不要反复微调参数，直接换强调词；③ roles 一律按首渲 find_bands 实测（本张 9 层 title+4body+3en+credit）回填，credit 被合并进末带时不要硬声明第 10 层"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "首渲：对比正文末行 4.80/英文 3.42 不达标、强调 17.18%、credit 角色错位",
+        "prevent": "字色按天空中位 142–175 反推，加深至近黑（16,14,12 / 22,18,14）"
+      },
+      {
+        "round": 2,
+        "improve": "字色加深后对比 12.8/8.7/7.16 全达标；强调仍 16.52%",
+        "prevent": "确认对比度与强调占比是两个独立维度，不要混调"
+      },
+      {
+        "round": 3,
+        "improve": "下划线 alpha 220→110、强调色降饱和、厚度归零，占比仍在 16.5% 左右",
+        "prevent": "三次微调无果即停止试错（GSTD 时间盒），换因：强调字本身笔画密度"
+      },
+      {
+        "round": 4,
+        "improve": "强调词从「执着」换「少」（笔画少、语义仍在），占比 14.18% 达标",
+        "prevent": "极短文本按语义挑笔画少的强调字，比调渲染参数有效"
+      },
+      {
+        "round": 5,
+        "improve": "roles 按实测 9 层回填（credit 与英文末带合并），三项数字全绿；全幅＋放大目验：毛笔字锋利、绛朱「少」醒目、下半极简地平线完整",
+        "prevent": "馆藏照片 CC BY 4.0 署名已写进款识，合规"
+      }
+    ],
+    "score": 94,
+    "final_png": "执着说明你见得太少_原作托马斯费恩利风景习作1833纸本油画挪威国家美术馆空旷地平线_20261119_1529.png"
+  }
+}

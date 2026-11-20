@@ -1,0 +1,59 @@
+{
+ "no": 66,
+ "id": "",
+ "title": "道德与人性（两套规则）",
+ "base": ".workbuddy-ai/tmp/route2/socrates.jpg",
+ "source": {
+  "session": "b8d1a1fa",
+  "line": 1062,
+  "dt": "10-16 09:58",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "越是道德观念重的人，|现实中往往越是过得没那么好，",
+  "body": "因为道德和人性它本来就是两套规则，|一个人道德观念过重，那么他的生存能力就不会很强，|因为它是不符合人性的，|<a>或者是说它会限制一个人变好和成长。</a>",
+  "en": "The more moral a person is, the worse they often fare in real life, because morality and human nature are two separate sets of rules. When morality weighs too heavily on someone, their instinct for survival is not strong, for it runs against human nature - or rather, it holds them back from becoming better and growing.",
+  "credit": "原作 雅克-路易·大卫《苏格拉底之死》1787 · 新古典主义 · 暗石壁 暖褐 白袍"
+ },
+ "params": {
+  "size": "1536x2048",
+  "font": "serif",
+  "title-font": "serif",
+  "body-font": "kai",
+  "title-size": "62",
+  "title-weight": "900",
+  "spacing": "4",
+  "title-gap": "30",
+  "body-size": "32",
+  "body-weight": "400",
+  "line-gap": "1.60",
+  "fill": "240,233,216",
+  "accent-fill": "212,128,74",
+  "inline-accent": "<a>",
+  "shadow": "1,2,5,150",
+  "emboss": "-1,-1,3,70:246,238,222",
+  "texture": "0.12:tint",
+  "block-width": "1020",
+  "en-gap": "42",
+  "en-width": "1020",
+  "pos": "top",
+  "align": "center",
+  "y-shift": "50",
+  "en-fill": "226,218,200",
+  "credit-fill": "170,162,146",
+  "en-size": "26",
+  "credit-size": "16",
+  "crop-x": "0.35",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "越是道德观念重的人现实中往往越是过得没那么好因为道德和人性本来就是两套规则一个人道德观念过重他的生存能力就不会很强因为它是不符合人性的或者说它会限制一个人变好和成长_原作雅克路易大卫苏格拉底之死1787新古典主义暗石壁暖褐白袍_20261016_0858.png",
+  "rc": 0,
+  "candidates_tested": 3
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

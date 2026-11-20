@@ -1,0 +1,60 @@
+{
+ "no": 69,
+ "id": "Q1",
+ "title": "安逸会毁掉一个人",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/whistlejacket_edit.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 554,
+  "dt": "10-16 18:25",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "安逸会毁掉一个人",
+  "body": "佛系是强者看淡名利后的随意，是弱者不思进取享受安逸的借口。人在任何时候都要保持不断地成长，否则你的能力、智商各个方面都会退化，人是在“动”中变化成长，一直处于“静”的状态，只会让人<a>停滞不前</a>。",
+  "en": "Being laid-back is the ease of the strong after they have seen through fame and fortune, and the excuse of the weak for indulging in comfort. One must keep growing at all times; otherwise, one's ability and intelligence will decline. A person grows and changes in motion; staying still only leads to stagnation.",
+  "credit": "原作 斯塔布斯《惊马》约1762年 · 英国布面油画 · 暖赭沙色"
+ },
+ "params": {
+  "crop-x": "0.5",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "kai",
+  "title-size": "76",
+  "title-weight": "700",
+  "spacing": "8",
+  "body-size": "26",
+  "body-spacing": "1",
+  "line-gap": "1.62",
+  "wrap": "27",
+  "en-size": "25",
+  "en-width": "35%",
+  "en-fill": "38,27,17",
+  "credit-size": "17",
+  "credit-fill": "78,58,38",
+  "fill": "44,31,20",
+  "accent-fill": "108,34,22",
+  "inline-accent": "<a>",
+  "shadow": "2,3,12,80",
+  "align": "right",
+  "pos": "top",
+  "body-pos": "upper",
+  "body-y-shift": "40",
+  "en-pos": "upper",
+  "en-align": "left",
+  "en-italic": "on",
+  "credit-bottom": "on",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "安逸会毁掉一个人佛系是强者看淡名利后的随意是弱者不思进取享受安逸的借口人在任何时候都要保持不断地成长否则你的能力智商各个方面都会退化人是在动中变化成长一直处于静的状态只会让人停滞不前_原作斯塔布斯惊马约1762年英国布面油画暖赭沙色_20261016_1725.png",
+  "rc": 0,
+  "candidates_tested": 4
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

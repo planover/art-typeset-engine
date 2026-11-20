@@ -1,0 +1,133 @@
+{
+  "id": "Q30",
+  "no": 98,
+  "title": "高质量的关系",
+  "body": "所有让其中一方觉得<a>委屈</a>的关系，|都是错误的关系，|高质量的关系应该是让自己<a>获益</a>的同时，|也不让对方吃亏，|无论生意还是恋爱，如果不是，|那说明其中一方并没有把另一方视为重要的人，|或者只想做<a>一锤子买卖</a>。",
+  "en": "Any relationship in which one side feels wronged is the wrong relationship. A high-quality relationship should benefit you while leaving the other side no worse off — in business or in love, if it does not, it means one of you does not regard the other as truly important, or is simply out for a one-time deal.",
+  "credit": "原作 费迪南德·霍德勒《图恩湖的对称倒影》1909 · 布面油画",
+  "source": {
+    "doc": "醒与悟1.0.md",
+    "anchor": "s186",
+    "page": 117,
+    "segments": [
+      "所有让其中一方觉得委屈的关系，都是错误的关系，高质量的关系应该是让自己获益的同时，也不让对方吃亏，无论生意还是恋爱，如果不是，那说明其中一方并没有把另一方视为重要的人，或者只想做一锤子买卖。"
+    ],
+    "flat_text": "所有让其中一方觉得委屈的关系，都是错误的关系，高质量的关系应该是让自己获益的同时，也不让对方吃亏，无论生意还是恋爱，如果不是，那说明其中一方并没有把另一方视为重要的人，或者只想做一锤子买卖。"
+  },
+  "meta": {
+    "essay": "高质量的关系",
+    "artist": "费迪南德·霍德勒（Ferdinand Hodler, 1853–1918）",
+    "painting": "图恩湖的对称倒影（Thunersee mit symmetrischer Spiegelung）",
+    "year": "1909",
+    "medium": "布面油画",
+    "collection": "私人藏（artbook 图版，Wikidata Q117599181）",
+    "license": "Public domain（PD-Art / PD-old-auto-expired，1918 年卒）",
+    "layout": "亮底深字＋文字压下半浅蓝水面，与上半山峦形成上下镜像呼应——对称倒影即「高质量关系双向映照/互惠平衡」的视觉双关；得意黑标题＋思源宋正文七行按标点手工断行＋Playfair 英文＋霞鹜文楷款识四体混排；与 Q29 亮底上半横排、行楷波纹全面对跖",
+    "accent": "绛朱 178,52,32 ＋ 1px 发丝下划线（10.25%）",
+    "score": 93,
+    "final_png": "高质量的关系_原作费迪南德霍德勒图恩湖的对称倒影1909布面油画瑞士象征主义山湖镜像_20261118_1506.png",
+    "draft": "v2",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "body7",
+      "en1",
+      "en2",
+      "en3",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      8
+    ]
+  },
+  "params": {
+    "title_font": "smiley",
+    "body_font": "serif",
+    "en_font": "playfair",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "2:9:178,52,32:230",
+    "accent_fill": "178,52,32",
+    "fill": "18,24,34",
+    "en_fill": "24,30,42",
+    "credit_fill": "22,28,38",
+    "pos": "lower",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "60",
+    "wrap": "0",
+    "block_width": "82%",
+    "en_width": "1260",
+    "title_size": "84",
+    "body_size": "34",
+    "en_size": "26",
+    "credit_size": "21",
+    "title_gap": "32",
+    "en_gap": "18",
+    "credit_gap": "24",
+    "title_lh": "1.16",
+    "line_gap": "1.16",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟1.0.md》锚点 s176 起筛除：s176 弱才喜欢抱团（八字/弱势词）、s177 取舍（与 Q29 选择链撞）、s178 本性难移（家暴/犯罪负面）、s179 做礼物别做废物（废物标签攻击）、s180 想赚钱和想有钱（风水/阶层词）、s182 背禄体质/s188 命运结构/s192 朋友圈价值（命理词）、s183 男女阴阳身份（两性）、s189 最有效的拒绝（蠢人标签）、s199 量力而为（弱者/廉价）整篇跳过；s186 高质量的关系 95 字定稿，逐字断言 6/6",
+    "see": {
+      "contrast": [
+        8.58,
+        8.99,
+        8.97,
+        8.99,
+        9.03,
+        8.94,
+        8.92,
+        8.91,
+        7.01,
+        6.93,
+        6.97,
+        7.44
+      ],
+      "accent_ratio": 0.1025,
+      "bbox": {
+        "top": 1199,
+        "bottom": 266,
+        "left": 146,
+        "right": 146
+      },
+      "bg_std_max": 20.4,
+      "accent_pixels": 2122,
+      "body_ink": 20712,
+      "layers": 12,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False, body_band_slice=(1,8), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-18 15:06",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "草稿三项数字只差标题带 bg_std 26.3（门槛 25）——标题落在真实山岸与水下倒影的交界纹理带（y=1200–1281，std 26–28），下半纯水区 std 仅 7–9。直接下移文字会让底部Margin<80，故不能靠位移",
+      "prevention": "沿用 Q29 军规：对窄带做轻度大羽化柔光（95 alpha／75px 高斯，取带内主色 187,207,211）烘进底图，且烘制底图必须同步作为 verify 的 base——否则 verify 测原图 std 与视觉脱节。1:1 目验确认无水平条带或矩形痕迹"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "现场已有半途补给：q30.json＋底图＋草稿齐备但 score=0。复查草稿三项数字：对比 8.4–9.0/6.9–7.0/7.44、强调 10.24%、四边合格，唯一 FAIL 是标题带 bg_std 26.3 vs 25",
+        "prevent": "先测 std 沿 y 分布定位污染带（y=1200–1350 岸线/倒影交界），不盲目改字号或位移"
+      },
+      {
+        "round": 2,
+        "improve": "对标题窄带做轻度柔光烘底后重渲：bg_std 26.3→20.4，对比 8.58/8.91–9.03/6.93–7.01/7.44、强调 10.25%、四边 1199/266/146/146 全绿；全幅＋文字区放大目验确认柔光无痕、双关构图成立",
+        "prevent": "与主标「对称倒影＝互惠平衡」的画意双关一并目验；不因数值达标跳过视觉检查"
+      }
+    ],
+    "score": 93,
+    "final_png": "高质量的关系_原作费迪南德霍德勒图恩湖的对称倒影1909布面油画瑞士象征主义山湖镜像_20261118_1506.png"
+  }
+}

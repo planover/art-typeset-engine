@@ -1,0 +1,61 @@
+{
+ "no": 67,
+ "id": "",
+ "title": "更高的角度（当下的条件解决不了当下的问题）",
+ "base": ".workbuddy-ai/tmp/route2/babel.jpg",
+ "source": {
+  "session": "b8d1a1fa",
+  "line": 1128,
+  "dt": "10-16 10:09",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "你用当下的条件，|去解决当下的问题，",
+  "body": "是解决不了的，|你必须得站在<a>一个更高的角度和思维</a>去看才行。",
+  "en": "You cannot solve the problems of this moment with the conditions of this moment. You have to stand at a higher angle and see with a higher mind.",
+  "credit": "原作 马腾·凡·瓦尔肯博赫《巴别塔》16 世纪末 · 弗拉芒风景画 · 暗褐大地 灰蓝天"
+ },
+ "params": {
+  "size": "1536x2048",
+  "font": "hei",
+  "title-font": "hei",
+  "body-font": "kai",
+  "title-size": "66",
+  "title-weight": "900",
+  "spacing": "6",
+  "title-gap": "32",
+  "body-size": "36",
+  "body-weight": "400",
+  "line-gap": "1.62",
+  "fill": "240,232,212",
+  "accent-fill": "230,180,96",
+  "inline-accent": "<a>",
+  "shadow": "1,2,6,140",
+  "texture": "0.15:tint",
+  "en-gap": "44",
+  "en-width": "1040",
+  "pos": "lower",
+  "align": "left",
+  "x-shift": "30",
+  "y-shift": "-10",
+  "en-fill": "224,216,196",
+  "credit-fill": "170,162,146",
+  "en-size": "27",
+  "credit-size": "16",
+  "crop-x": "0.5",
+  "grain": "0.25"
+ },
+ "verified": false,
+ "max_diff": 16,
+ "diff_frac": 0.02441502,
+ "deterministic": true,
+ "root_cause": "字体资产漂移（非工具缺陷）。2026-11-11 复测：当前 local_typeset.py 双渲对比 max_diff=0（完全确定可复现）；与 10-16 交付图差异仅限文字区 y[1170-1676]x[87-1127]，≤16/通道、2.44% 像素、1.7万像素差>8，属字形边缘抗锯齿偏移。根因＝10-16 之后正文 kai（霞鹜文楷）或标题 hei 字重900 渲染路径被更新，字形/字距亚像素偏移。重渲图与交付图视觉一致。",
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对；并双渲确认确定性",
+  "delivered": "你用当下的条件去解决当下的问题是解决不了的你必须得站在一个更高的角度和思维去看才行_原作马腾凡瓦尔肯博赫巴别塔16世纪末弗拉芒风景画暗褐大地灰蓝天_20261016_0910.png",
+  "rc": 0,
+  "candidates_tested": 2,
+  "double_render_max_diff": 0
+ },
+ "_note": "根因已定位＝字体漂移，管道确定可复现，重渲图视觉等价，可作归档/再出图基准；不追求 max_diff 0（需回滚10-16字体版本，无必要）。升级 presets 时以当前重渲为真相源、补齐 source.segments 即可。"
+}

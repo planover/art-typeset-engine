@@ -1,0 +1,62 @@
+{
+ "no": 75,
+ "id": "Q7",
+ "title": "一个人的价值",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/hooch_courtyard.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 1750,
+  "dt": "11-01 10:02",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "一个人的价值",
+  "body": "一个人的价值<a>不是由自己决定的</a>，而是由身边的一切决定的。|你周围的人和环境，<a>决定了你的价值</a>。",
+  "en": "A person's value is not decided by themselves, but by everything around them. The people around you and the environment you live in decide your value.",
+  "credit": "原作 德·霍赫《代尔夫特一栋房子的庭院》1658年 · 荷兰黄金时代 · 黄砖暖红"
+ },
+ "params": {
+  "crop-x": "0.5",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "hei",
+  "title-size": "66",
+  "title-weight": "700",
+  "spacing": "10",
+  "title-gap": "28",
+  "body-size": "28",
+  "body-spacing": "1",
+  "line-gap": "1.55",
+  "wrap": "0",
+  "en-size": "23",
+  "en-width": "720",
+  "en-gap": "24",
+  "en-font": "garamond",
+  "en-italic": "on",
+  "en-weight": "560",
+  "en-fill": "42,34,24",
+  "credit-size": "18",
+  "credit-fill": "38,30,22",
+  "credit-gap": "32",
+  "fill": "26,20,14",
+  "accent-fill": "120,42,32",
+  "inline-accent": "<a>",
+  "shadow": "2,3,10,120",
+  "align": "left",
+  "x-shift": "70",
+  "pos": "bottom",
+  "y-shift": "6",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "一个人的价值不是由自己决定的而是由身边的一切决定的你周围的人和环境决定了你的价值_原作德霍赫代尔夫特一栋房子的庭院1658年荷兰黄金时代黄砖暖红_20261101_0902.png",
+  "rc": 0,
+  "candidates_tested": 15
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

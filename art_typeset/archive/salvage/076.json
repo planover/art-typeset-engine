@@ -1,0 +1,62 @@
+{
+ "no": 76,
+ "id": "Q8",
+ "title": "让自己看起来值钱",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/heda_breakfast.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 1908,
+  "dt": "11-01 10:55",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "让自己看起来值钱",
+  "body": "成年人的世界，但凡是把自己人生当回事的人，都是要想办法让自己看起来<a>“值钱”</a>的，|这个值钱并不是说背个<a>奢侈品包包</a>就是值钱了，|而是尽量让别人知道自己的<a>高价值</a>。",
+  "en": "In the adult world, anyone who takes their own life seriously has to find a way to look valuable. This value does not mean carrying a luxury bag - it means letting others know your true worth.",
+  "credit": "原作 海达《石龛中的早餐》1642年 · 荷兰黄金时代静物画 · 黑金暗龛"
+ },
+ "params": {
+  "crop-x": "0.5",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "hei",
+  "title-size": "84",
+  "title-weight": "700",
+  "spacing": "12",
+  "y-shift": "34",
+  "body-size": "30",
+  "body-spacing": "1",
+  "line-gap": "1.86",
+  "wrap": "0",
+  "en-size": "24",
+  "en-width": "1000",
+  "en-gap": "42",
+  "en-font": "garamond",
+  "en-italic": "on",
+  "en-weight": "560",
+  "en-fill": "212,200,172",
+  "credit-size": "19",
+  "credit-fill": "196,184,158",
+  "credit-gap": "32",
+  "fill": "240,230,202",
+  "accent-fill": "235,205,80",
+  "inline-accent": "<a>",
+  "shadow": "3,4,14,120",
+  "align": "center",
+  "pos": "top",
+  "body-pos": "upper",
+  "body-y-shift": "70",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "让自己看起来值钱成年人的世界但凡是把自己人生当回事的人都是要想办法让自己看起来值钱的这个值钱并不是说背个奢侈品包包就是值钱了而是尽量让别人知道自己的高价值_原作海达石龛中的早餐1642年荷兰黄金时代静物画黑金暗龛_20261101_0955.png",
+  "rc": 0,
+  "candidates_tested": 6
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

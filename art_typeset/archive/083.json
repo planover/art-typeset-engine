@@ -1,0 +1,27 @@
+{
+  "no": 83,
+  "id": "",
+  "topic": "想要别人爱你要先学会爱自己",
+  "title": "想要别人爱你，要先学会爱自己",
+  "date": "20261101",
+  "note": "第83张_想要别人爱你要先学会爱自己_交付说明_20261101.md",
+  "final_png": "想要别人爱你要先学会爱自己_原作约翰辛格萨金特阿格纽夫人1892年布面油画苏格兰国家美术馆_20261101_1423.png",
+  "meta": {
+    "artist": "约翰·辛格·萨金特",
+    "painting": "阿格纽夫人",
+    "year": "1892 年",
+    "essay": "",
+    "layout": "顶部中文标题 + 底部英文/款识上下对称呼应布局（首次）：--align center --pos top --aux-bottom on",
+    "accent": "暖金强调（210,150,70），占比 11.0%",
+    "score": 94
+  },
+  "measurements": {
+    "contrast": "标题浅色字压暗底 5.4:1",
+    "accent_ratio": "11.0%",
+    "bbox": "",
+    "fonts": "标题 72 / 英文 25 / 款识 19（正文字号未记载）"
+  },
+  "reproducible": false,
+  "_todo": "档案级配方：参数不全，不可重渲；需从会话记录或成图反推后升级为 presets/",
+  "salvage_params": "archive/salvage/083.json"
+}

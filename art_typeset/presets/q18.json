@@ -1,0 +1,113 @@
+{
+  "id": "Q18",
+  "no": 86,
+  "title": "不是你不够好",
+  "body": "没有完美的人，只有<a>合不合适</a>，愿不愿意包容，|可能也算不上是包容，因为对的人，|哪怕是你的缺点，对方也会<a>自带滤镜</a>。|有的时候<a>不是你不够好</a>，而是你没有跟欣赏你的人在一起。",
+  "en": "There are no perfect people, only the right fit - someone willing to accept you. It may not even be acceptance: with the right person, even your flaws are seen through kind eyes. Sometimes it is not that you are not good enough; it is that you have not yet met the one who truly appreciates you.",
+  "credit": "原作 奥迪隆·雷东《瓶花》约1905 · 纸本色粉 · 暖赭与钴蓝",
+  "source": {
+    "page": 61,
+    "segments": [
+      "没有完美的人，只有合不合适，愿不愿意包容，可能也算不上是包容，因为对的人，哪怕是你的缺点，对方也会自带滤镜。",
+      "有的时候不是你不够好，而是你没有跟欣赏你的人在一起。"
+    ],
+    "flat_text": "49地感受和总结，最后才悟出了“道”。好运从来都不是无缘无故的降临，而是在你已经有了一部分的“人为”基础上，它才会给你好运。为什么总是过不好除了先天身体上的因素，如果一个人长期过不好，这个人身上一定有一个排常致命的弱点，而这个弱点对应的，基本上就是他八字中那个最大的悬神，所体现出来的品性，想要改变命运，就需要强大的意志力去对抗自己基因，也就是那些无法给自己带来好处的天性，才有机会翻盘。别因为一次感情失败否定自己感情中的“苦”大多数都是因为不匹配造成的。没有完美的人，只有合不合适，愿不愿意包容，可能也算不上是包容，因为对的人，哪怕是你的缺点，对方也会自带滤镜。就像一件衣服，原本那件衣服是好看的，但你搭配的不好，你就会觉得那件衣服丑，可能你换条裤子，换双鞋子，你就会发现那件衣服很好看，人和人之间也是这样，有的时候不是你不够好，而是你没有跟欣赏你的人在一起。博出位需要差异化和多维打击别人拍做饭的视频火了，你也和她们一样，在厨房拍做饭，就很难火了，但如果你在建筑工地给民工做饭，就有可能会火。大家都讲命理，如果你也和大多数人一样，天天讲些十神和神煞，别人很难记住你，但你把命理和人性结合，用命理思维去讲情感，你就一定更受欢迎，赚的更多，因为你会的，别人也会，别人为什么要找你呢，本质上可能别人比你还"
+  },
+  "meta": {
+    "essay": "别因为一次感情失败否定自己",
+    "artist": "奥迪隆·雷东",
+    "painting": "瓶花",
+    "year": "约1905",
+    "score": 93,
+    "layout": "曲线形变 arc:36 ＋整体斜排 -7",
+    "accent": "群青（画中钴蓝陶瓶）",
+    "final_png": "不是你不够好_原作奥迪隆雷东瓶花约1905年纸本色粉暖赭钴蓝象征主义_20261106_1455.png"
+  },
+  "_salvage": {
+    "script": "q18_render.py",
+    "base": "q18_base.png",
+    "reference_out": "q18_final.png",
+    "note": "从渲染脚本自动抢救；source 段待补原文逐字校验"
+  },
+  "params": {
+    "title_font": "xingkai",
+    "body_font": "song",
+    "credit_font": "hei",
+    "en_font": "garamond",
+    "inline_accent": "<a>",
+    "scrim": "0",
+    "wrap": "30",
+    "y_shift": "45",
+    "warp": "arc:36",
+    "rotate": "-7",
+    "title_size": "84",
+    "body_size": "28",
+    "en_size": "25",
+    "credit_size": "21",
+    "en_width": "900",
+    "en_gap": "34",
+    "credit_gap": "30",
+    "fill": "34,30,26",
+    "en_fill": "44,38,32",
+    "credit_fill": "48,42,36",
+    "accent_fill": "52,62,132",
+    "accent_underline": "2:9:52,62,132:170",
+    "text_grain": "0.10",
+    "grain": "0.12"
+  },
+  "_legacy_exempt": [
+    "--warp 必须显式给 --title-gap"
+  ],
+  "_legacy_reason": "第86张（2026-11-06）已交付成图，当时 warp arc:36 未给 title-gap，Measure 层预测呼吸缝仅 7px（与第88张 v1 同款隐患），但未被目验指出。按「不回溯改已交付成图」原则，显式标记为历史欠账；此配方仅作档案与回归，不作为新图模板。",
+  "pdca": {
+    "go": {
+      "source_page": 61,
+      "verbatim": "2 段逐字",
+      "probed": true
+    },
+    "see": {
+      "contrast": [
+        6.0,
+        5.85,
+        5.71,
+        4.53
+      ],
+      "layer_roles": [
+        "title",
+        "body",
+        "en",
+        "credit"
+      ],
+      "accent_ratio": 0.1043,
+      "bbox": {
+        "top": 86,
+        "bottom": 1376,
+        "left": 310,
+        "right": 343
+      },
+      "ok": true,
+      "measured_by": "q18_verify.py v3（第86张交付口径：旋转感知的分层矩形）",
+      "measured_at": "2026-11-11",
+      "final_sha256": "2ee9ed9b956a44bba4ea5cac9cd0c937ac95cf55f759e7c13746f4d4537e787d",
+      "note": "已交付成图与 route2/q18_v3.png 逐字节相同（sha256 一致），用 q18_verify.py 对「成图 vs q18_base.png」实测复现交付说明 §六 数值。本张 --rotate -7 整块斜排，verify.py 通用行带投影会合并相邻斜行带（实测仅 5 层、body 4.10:1、en/credit 缺失），故三项数字沿用第86张交付时的分层矩形口径，不冒充 render 自动口径。"
+    },
+    "think": {
+      "root_cause": "第86张（2026-11-06）已交付成图，当时 warp arc:36 未给 title-gap，Measure 层预测呼吸缝仅 7px（与第88张 v1 同款隐患），但未被目验指出。按「不回溯改已交付成图」原则，显式标记为历史欠账；此配方仅作档案与回归，不作为新图模板。",
+      "prevention": "写进 spec 硬门槛与 preflight 断言"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "选画探针 + 定位落暗区",
+        "prevent": "固化亮度带第零条"
+      },
+      {
+        "round": 2,
+        "improve": "字号/强调/衬底微调至三项数字达标",
+        "prevent": "verify 不达标不落盘"
+      }
+    ],
+    "score": 93,
+    "final_png": "不是你不够好_原作奥迪隆雷东瓶花约1905年纸本色粉暖赭钴蓝象征主义_20261106_1455.png"
+  }
+}

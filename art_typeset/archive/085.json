@@ -1,0 +1,27 @@
+{
+  "no": 85,
+  "id": "Q17",
+  "topic": "越成长抱怨越少",
+  "title": "越成长，抱怨越少",
+  "date": "20261106",
+  "note": "第85张_越成长抱怨越少_交付说明_20261106.md",
+  "final_png": "越成长抱怨越少_原作弘仁山水图册清初纸本水墨设色米灰淡赭冷逸简淡_20261106_1429.png",
+  "meta": {
+    "artist": "弘仁",
+    "painting": "山水图册",
+    "year": "清初",
+    "essay": "越成长，抱怨越少",
+    "layout": "中英左右双栏对读 + 跟随结构线：左栏标题 80px + 中文 8 行 28px（--wrap 22）；右栏英文全文 25px（--en-pos top --en-align right --en-width 480）顶对齐；款识 21px",
+    "accent": "深朱两处：「越来越少」「聪明」（112,32,22）+ 朱红细下划线 --accent-underline 2:10:172,54,36:150",
+    "score": 91
+  },
+  "measurements": {
+    "contrast": "标题 7.27 / 正文 7.35 / 英文 6.13 / 款识 6.49:1",
+    "accent_ratio": "10.47%",
+    "bbox": "上 129 / 下 82 / 左 121 / 右 248",
+    "fonts": "80 / 28 / 25 / 21"
+  },
+  "reproducible": false,
+  "_todo": "档案级配方：参数不全，不可重渲；需从会话记录或成图反推后升级为 presets/",
+  "preset": "presets/q17.json"
+}

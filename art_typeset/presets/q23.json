@@ -1,0 +1,102 @@
+{
+  "id": "Q23",
+  "no": 91,
+  "title": "越长大越要做减法",
+  "body": "越是低价值的人，他的精力和注意力都是向外的，<a>而不是向内的</a>。|一个人的精力和时间如果长期都是向外的，热衷于聚会，|热衷于社交，这个人一定不会有什么钱，甚至有点穷，|因为越是会赚钱的人和有钱人越会<a>珍惜时间</a>。",
+  "en": "The less value a person has, the more their energy and attention point outward rather than inward. When a person's energy and time are always spent outward, on gatherings, on socializing, they will not have much money, and may even be poor; for those who know how to earn it and those who already have it treasure their time above all.",
+  "credit": "原作 阿尔伯特·平克汉姆·莱德《月光下航行》约19世纪末 · 布面油画",
+  "source": {
+    "page": 73,
+    "segments": [
+      "越是低价值的人，他的精力和注意力都是向外的，而不是向内的。",
+      "一个人的精力和时间如果长期都是向外的，热衷于聚会，热衷于社交，这个人一定不会有什么钱，甚至有点穷，因为越是会赚钱的人和有钱人越会珍惜时间。"
+    ],
+    "flat_text": "61\n至会越来越差，就是觉得你就应该帮我，你就应该给我点好处，或者觉得“你告\n诉告诉我怎么了”这种心理，那他只会越过越差。\n你给自己设定什么状态，把自己放到什么位置上，你的命运就会朝着那个方\n向去走，你觉得自己弱，别人就要无偿帮你，那你就真的会一直弱下去，因为你\n把自己设定成弱者了。\n但如果说，哪怕你当下的条件或者情况没那么好，但你也不悲观，不把自己\n放在一个弱者的位置上，不用弱势思维去思考做事，当你跟别人相处的时候，别\n人也不会把你当成弱者，那么你就会慢慢越来越好，因为你并没有按照一个弱者\n的标准和思维来打造自己。\n越长大越要做减法\n越是低价值的人，他的精力和注意力都是向外的，而不是向内的。\n人越长大越要学会做减法，会和一些人渐行渐远，不需要什么特殊的理由，\n只是我对你不感兴趣，你也对我不感兴趣，你身上没有我需要的东西而已。\n一个人的精力和时间如果长期都是向外的，热衷于聚会，热衷于社交，这个\n人一定不会有什么钱，甚至有点穷，因为越是会赚钱的人和有钱人越会珍惜时间。\n你结交什么人，你就会耳濡目染，结交的都是把时间用来提升自己，每天思\n考怎么赚钱，如何做事的人，你也会想着怎么让自己变得更好点，琢磨怎么才能\n赚多点钱，结交每天都想拉你去哪玩，去哪里喝酒的人，你的时间就会越来越不\n值钱，甚至让你失去很多钱，因为他们占用了原本你可以赚钱的时间。\n不要又想着吃喝玩乐贪图享乐，又想有钱，除了会投胎，这个世界上没有那\n样的好事，“财”不愿意光顾贪图享乐的人，别人有钱是因为别人牺牲了吃喝玩\n乐的时间，当你一无所有却又贪图享乐的时候，未来都是要还的。\n帮弱势人群成本和代价太大\n弱势思维的人轻易不能帮，因为他们的认知导致他们只认真金白银，除了真\n金白银以外，你提供的帮助和付出，在他们眼里大多都是无意义的，你希望他思\n\n"
+  },
+  "meta": {
+    "essay": "越长大越要做减法",
+    "artist": "阿尔伯特·平克汉姆·莱德（Albert Pinkham Ryder）",
+    "painting": "月光下航行（Sailing by Moonlight）",
+    "year": "约19世纪末（Commons 标 Unknown date）",
+    "medium": "布面油画",
+    "score": 92,
+    "layout": "标题 wave:26 轻波＋正文/英文/款识横排，整块沉入下半暗海（y≈1320）",
+    "accent": "月色金 255,196,72（提亮提饱和）＋ 3px 金色细下划线",
+    "final_png": "越长大越要做减法_原作阿尔伯特平克汉姆莱德月光下航行约19世纪末布面油画深墨绿夜海昏黄月黑帆_20261112_0905.png",
+    "draft": "v2"
+  },
+  "params": {
+    "title_font": "serif",
+    "body_font": "song",
+    "credit_font": "hei",
+    "en_font": "garamond",
+    "inline_accent": "<a>",
+    "accent_underline": "3:10:255,196,72:205",
+    "scrim": "0",
+    "credit_gap": "24",
+    "pos": "bottom",
+    "y_shift": "-110",
+    "wrap": "0",
+    "block_width": "80%",
+    "title_size": "80",
+    "body_size": "30",
+    "en_size": "25",
+    "credit_size": "21",
+    "fill": "238,226,196",
+    "en_fill": "220,210,186",
+    "credit_fill": "205,196,172",
+    "accent_fill": "255,196,72",
+    "title_gap": "60",
+    "en_width": "1360",
+    "grain": "0.10",
+    "text_grain": "0.10",
+    "warp": "wave:26"
+  },
+  "pdca": {
+    "go": "回 PDF 73 原页逐字取证：段1/段3 各 in 原页；整段跳过第2段「渐行渐远」（与 Q9 舍弃主题撞车）；72 页 OCR 损坏、73-74 敏感词篇目按铁律跳过",
+    "see": {
+      "contrast": [
+        7.98,
+        6.99,
+        6.93,
+        7.59,
+        7.48,
+        6.98,
+        6.78,
+        6.78
+      ],
+      "accent_ratio": 0.131,
+      "bbox": {
+        "top": 1302,
+        "bottom": 212,
+        "left": 96,
+        "right": 96
+      },
+      "bg_std_max": 20.7,
+      "accent_pixels": 2428,
+      "body_ink": 18531,
+      "layers": 9,
+      "measured_by": "art_typeset.verify.verify(dark_bg=True) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-12 09:05",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "缓存 88 张候选数值合格者 10/10 全撞已用画家；数值最优的 q22_breton_field 目验是图书馆藏书封面而非画",
+      "prevention": "Commons 新画家 + 第零条亮度带 + 16×8 网格 + 1:1 目验四道筛；暗底浅字与 Q22 亮底深字双拉开"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "选画四道筛（第零条亮度带→16×8网格→1:1目验→画家查重）锁定莱德暗海 y1280–2048；首版 wave:18＋奶油字＋金 232,178,98，三项数字一次达标（强调 10.15%）",
+        "prevent": "verify 出图即出三项数字，不达标不落盘"
+      },
+      {
+        "round": 2,
+        "improve": "目验发现强调色比正文更暗（弱化）、wave:18 起伏不可辨、Playfair 25px 偏糊 → 金提亮提饱和 255,196,72＋下划线 3px/alpha205、wave 18→26、y_shift −60→−110、en_font→Garamond；强调 10.15→13.10%",
+        "prevent": "1:1 目验强制检查「强调色是否比正文更醒目」，数字达标不替代目视判据"
+      }
+    ],
+    "score": 92,
+    "final_png": "越长大越要做减法_原作阿尔伯特平克汉姆莱德月光下航行约19世纪末布面油画深墨绿夜海昏黄月黑帆_20261112_0905.png"
+  }
+}

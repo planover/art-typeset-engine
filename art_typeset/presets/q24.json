@@ -1,0 +1,107 @@
+{
+  "id": "Q24",
+  "no": 92,
+  "title": "不对低成本的口嗨当真",
+  "body": "有人说他有多喜欢你，多认同你，但实际上他从来<a>没有任何付出</a>，|没有支持过你的任何业务，那他并没有多喜欢你，这种喜欢是很脆弱的，|甚至还有很多人会试图用这种方式，占你的便宜，占用你的时间，|说明他也并不打算跟你产生进一步的链接，这种情况下，你<a>不必当真</a>，|成年人的成熟标志之一，就是<a>不对低成本的口嗨当真</a>和上头。",
+  "en": "Some people say how much they like you, how much they agree with you, yet they have never given anything and never supported anything you do. That is not real liking, and it is fragile. Many will even use it to take advantage of you and occupy your time, which means they never intended to build a deeper connection with you. In that case, do not take it seriously. One mark of a mature adult is refusing to be swept away by cheap words.",
+  "credit": "原作 约翰·亨利·特沃克特曼《科斯科布的老霍利屋》1901 · 布面油画",
+  "source": {
+    "page": 89,
+    "segments": [
+      "有人说他有多喜欢你，多认同你，但实际上他从来没有任何付出，没有支持过你的任何业务，那他并没有多喜欢你，这种喜欢是很脆弱的，甚至还有很多人会试图用这种方式，占你的便宜，占用你的时间，说明他也并不打算跟你产生进一步的链接，这种情况下，你不必当真，成年人的成熟标志之一，就是不对低成本的口嗨当真和上头。"
+    ],
+    "flat_text": "77\n其实只是自己儒弱而已。\n有人说他有多喜欢你，多认同你，但实际上他从来没有任何付出，没有支持\n过你的任何业务，那他并没有多喜欢你，这种喜欢是很脆弱的，甚至还有很多人\n会试图用这种方式，占你的便宜，占用你的时间，说明他也并不打算跟你产生进\n一步的链接，这种情况下，你不必当真，成年人的成熟标志之一，就是不对低成\n本的口嗨当真和上头。\n一个成熟的成年人，想要高质量的社交，更多是学会带着价值跟别人互换，\n而不是跟别人攀关系，扯关系，动不动就要请人吃饭，这种没什么实际性的意义，\n比你优秀的人，稍微时间值钱的人都不会用自己的时间去吃你那一顿饭的，因为\n成本太高。\n面对比自己优秀的人，自己想结识的人，和自己喜欢的人，最有效的方式就\n是给到人实际性的好处，广单直接就是最大的诚意，千万别跟人搞假惺惺那一套，\n因为段位比你高的人智商不可能比你低，所以真减是你最大的竿马。\n对一个人越好，越容易换来背叛\n你越对一个人好，并且是一方单方面的对其中一方好，没有一个相互的良性\n互动，那你只会激发出对方人性中的贪婪，让其失去自我定位，失去分寸感，从\n而得寸进尺，不要误以为你帮过的人，对方就会感激你，是可以让你信任的，恰\n怡相反，作为接受好处的一方，不到撕破脸的那一刻，他是没必要对你展示他真\n实的人品的，所以大概率是不可以信任的。\n而帮过自己的人，付出是可以检验出人性的，因为付出意味着损失，所以绝\n大多数帮过自己的人是可以信任的。\n别让道德绑架自己\n有素质的人往往在这个社会上很容易吃亏，反而是没素质的人总能优先享有\n一切。\n\n"
+  },
+  "meta": {
+    "essay": "成年人要适当现实",
+    "artist": "约翰·亨利·特沃克特曼（John Henry Twachtman）",
+    "painting": "科斯科布的老霍利屋（Old Holley House, Cos Cob）",
+    "year": "1901",
+    "medium": "布面油画",
+    "score": 92,
+    "layout": "端正横排（无标题形变）＋整块压在下半雪地，与 Q23 波浪标题/暗底浅字全面对跖",
+    "accent": "老屋木窗暖赭 190,64,40（提亮提饱和）＋ 5px 赭红细下划线",
+    "final_png": "不对低成本的口嗨当真_原作约翰亨利特沃克特曼科斯科布的老霍利屋1901布面油画灰白雪地赭褐老屋_20261112_1313.png",
+    "draft": "v3"
+  },
+  "params": {
+    "title_font": "song",
+    "body_font": "kai",
+    "credit_font": "hei",
+    "en_font": "times",
+    "inline_accent": "<a>",
+    "accent_underline": "5:10:190,64,40:220",
+    "scrim": "0",
+    "credit_gap": "24",
+    "pos": "bottom",
+    "y_shift": "-60",
+    "wrap": "0",
+    "block_width": "86%",
+    "title_size": "84",
+    "body_size": "30",
+    "en_size": "25",
+    "credit_size": "21",
+    "fill": "32,29,25",
+    "en_fill": "48,42,36",
+    "credit_fill": "40,36,31",
+    "accent_fill": "190,64,40",
+    "title_gap": "56",
+    "en_width": "1400",
+    "grain": "0.10",
+    "text_grain": "0.10"
+  },
+  "pdca": {
+    "go": "回 PDF 89 原页逐字取证，148 字整段 in 原页；73 剩余两段与 Q23/Q21 同主题链跳过，86-88 命理术语/OCR 损坏/主题重复按五问筛除",
+    "see": {
+      "contrast": [
+        7.08,
+        6.78,
+        6.81,
+        6.74,
+        6.63,
+        6.69,
+        4.38,
+        4.29,
+        4.85
+      ],
+      "accent_ratio": 0.1122,
+      "bbox": {
+        "top": 1327,
+        "bottom": 132,
+        "left": 97,
+        "right": 97
+      },
+      "bg_std_max": 11.8,
+      "accent_pixels": 2549,
+      "body_ink": 22713,
+      "layers": 11,
+      "extra_bands_min": 4.23,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-12 13:13",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "148 字长文需要大片均匀亮底；油画候选 std 33-56、日本画候选 35-56 皆因墨线人物太碎",
+      "prevention": "第零条亮度带 + 16x8 网格先筛 std，再下载高分辨率原图与 1:1 目验"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "第零条亮度带＋16x8 网格锁定特沃克特曼雪地 y1024–2048（中位 159–187、std 9–12），亮底深墨字端正横排与 Q23 全面对跖；首版强调占比仅 6.81% 被门禁拦下并自动删图",
+        "prevent": "verify 不达标不落盘；长文按占比反推强调字数，禁止目视达标"
+      },
+      {
+        "round": 2,
+        "improve": "强调色提亮提饱和 156,72,44→190,64,40、下划线 3→5px、补第三处强调「不必当真」共 20 字，占比 6.81→11.22%",
+        "prevent": "1:1 目验强制检查强调色是否比正文更醒目"
+      },
+      {
+        "round": 3,
+        "improve": "目验放大发现 roles 只预设 8 层，正文 5 行＋英文 4 行导致真款识落到 band10（3.14:1）被漏判；给 verify.py 加 contrast_extra_bands 保守兜底（按最严 credit 门槛判所有 bandN），并把款识色 62,56,48→40,36,31，真款识 3.14→4.85:1",
+        "prevent": "工具层：未归类行带一律纳入最弱层判定，宁可误拦不可漏放；Q21 历史图回归 ok=True 不受影响"
+      }
+    ],
+    "score": 92,
+    "final_png": "不对低成本的口嗨当真_原作约翰亨利特沃克特曼科斯科布的老霍利屋1901布面油画灰白雪地赭褐老屋_20261112_1313.png"
+  }
+}

@@ -1,0 +1,58 @@
+{
+ "no": 83,
+ "id": "",
+ "title": "想要别人爱你，要先学会爱自己",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/sargent_lady_agnew.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 2947,
+  "dt": "11-01 15:23",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "想要别人爱你，|要先<a>学会爱自己</a>",
+  "en": "If you want others to love you, you must first learn to love yourself.",
+  "credit": "原作 约翰·辛格·萨金特《阿格纽夫人》1892年 · 布面油画 · 苏格兰国家美术馆"
+ },
+ "params": {
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "hei",
+  "title-size": "72",
+  "title-weight": "700",
+  "spacing": "10",
+  "title-lh": "1.18",
+  "y-shift": "50",
+  "x-shift": "0",
+  "en-size": "25",
+  "en-width": "780",
+  "en-gap": "22",
+  "en-font": "garamond",
+  "en-italic": "on",
+  "en-weight": "700",
+  "en-fill": "55,50,42",
+  "credit-size": "19",
+  "credit-fill": "65,60,52",
+  "credit-gap": "14",
+  "fill": "235,225,200",
+  "accent-fill": "210,150,70",
+  "inline-accent": "<a>",
+  "shadow": "2,3,10,55",
+  "halo": "235,225,200:10:80",
+  "align": "center",
+  "pos": "top",
+  "aux-bottom": "on",
+  "grain": "0.2"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "想要别人爱你要先学会爱自己_原作约翰辛格萨金特阿格纽夫人1892年布面油画苏格兰国家美术馆_20261101_1423.png",
+  "rc": 0,
+  "candidates_tested": 17
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

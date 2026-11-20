@@ -1,0 +1,123 @@
+{
+  "id": "Q25",
+  "no": 93,
+  "title": "别激发别人的羡慕嫉妒恨",
+  "body": "高情商<a>不是</a>说别人喜欢听的话，|高情商是尽量<a>不激发</a>出别人人性中的“羡慕”“嫉妒”“恨”。",
+  "en": "High emotional intelligence is not about saying what people like to hear. It is about trying not to stir up the envy, the jealousy and the hatred in other people.",
+  "credit": "原作 乔治·英尼斯《月升》1887 · 布面油画",
+  "source": {
+    "page": 92,
+    "segments": [
+      "高情商不是说别人喜欢听的话，高情商是尽量不激发出别人人性中的“羡慕”“嫉妒”“恨”。"
+    ],
+    "flat_text": "80\n官杀混杂的，就要控制自己骑驴找马的心态，否则容易杀气太重。\n伤官见官的，时刻提醒自己心里有点数，以下犯上轻则被人穿小鞋，重则容\n易失职。\n食多为伤不配印的，时刻提醒自己清醒一点，别老活在自己的幻象当中眼高\n手低。\n对外，知已知彼百战百胜，对内，了架自己才能找到正确的方向和合适的工\n具披荆斩棘。\n增强自己的保护系统\n如果一个人长期倒霉，说明他自身的防御系统是非常弱的，缺乏保护系统\n所以要多读书，读书能给人带来的好处，就是看问题的角度会更全面，不会只是\n看到一个面，或者一个点，读书能够让人更深刻的思考，不会只注重眼前的利益，\n以及能提升自己独立思考和解决问题的能力。\n真正的高情商\n高情商不是说别人喜欢听的话，高情商是尽量不激发出别人人性中的“羡慕”\n“嫉妒”“恨”。\n情商是一个谁也教不会的东西，它也是一个人基因中的一部分，从客观因素\n说，出社会早的，见过世面的，以及生意人运用的更好，有人的地方就有江湖，\n事实证明情商高的就是比没情商的更讨人喜欢，更容易获得机会，很多事情进行\n起来也就更容易，更顺利一些。\n对糖衣炮弹保持清醒\n其实别人可能真的没那么喜欢你，只是你在某个阶段，某个时刻，对别人来\n说有价值而已，我常常这么提醒自己来保持清醒，别人夸你，赞你，听听就好，\n"
+  },
+  "meta": {
+    "essay": "真正的高情商",
+    "artist": "乔治·英尼斯（George Inness, 1825–1894）",
+    "painting": "月升（Moonrise）",
+    "year": "1887",
+    "medium": "布面油画",
+    "collection": "耶鲁大学美术馆（Yale University Art Gallery, New Haven）",
+    "license": "Public domain（PD-Art，1894 年卒／1931 年前出版）",
+    "layout": "整体斜排 rotate -6（非纯横排）＋暗底浅字，与 Q24 端正横排亮底深字全面对跖",
+    "accent": "月色蜜金 255,206,104（提亮提饱和）＋ 4px 橙金细下划线",
+    "body_band_slice": [
+      1,
+      3
+    ],
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "en1",
+      "en2",
+      "credit"
+    ],
+    "score": 94,
+    "final_png": "别激发别人的羡慕嫉妒恨_原作乔治英尼斯月升1887布面油画美国色调主义暗褐草地橙金月色_20261112_1405.png",
+    "draft": "v4"
+  },
+  "params": {
+    "title_font": "kai",
+    "body_font": "song",
+    "credit_font": "hei",
+    "en_font": "playfair",
+    "inline_accent": "<a>",
+    "accent_underline": "2:10:255,186,72:220",
+    "scrim": "0",
+    "credit_gap": "24",
+    "pos": "bottom",
+    "y_shift": "-120",
+    "wrap": "0",
+    "block_width": "84%",
+    "title_size": "80",
+    "body_size": "32",
+    "en_size": "26",
+    "credit_size": "21",
+    "fill": "238,226,196",
+    "en_fill": "222,212,190",
+    "credit_fill": "205,196,172",
+    "accent_fill": "255,206,104",
+    "title_gap": "56",
+    "en_width": "1200",
+    "grain": "0.10",
+    "text_grain": "0.10",
+    "warp": "arc:38"
+  },
+  "pdca": {
+    "go": "回 PDF 92（印刷 80）原页取证，篇名「真正的高情商」首段 43 字整段 in 原页、收句号、敏感词零命中；90–91 页命理术语密集跳过，92「增强自己的保护系统」OCR 缺标点＋玄学因果前缀跳过，「对糖衣炮弹保持清醒」与 Q24 主题相邻跳过",
+    "see": {
+      "contrast": [
+        8.57,
+        7.76,
+        7.76,
+        6.88,
+        6.58,
+        5.51
+      ],
+      "accent_ratio": 0.1364,
+      "bbox": {
+        "top": 1399,
+        "bottom": 236,
+        "left": 185,
+        "right": 184
+      },
+      "bg_std_max": 10.0,
+      "accent_pixels": 1151,
+      "body_ink": 8437,
+      "layers": 6,
+      "measured_by": "art_typeset.verify.verify(dark_bg=True, body_band_slice=(1,3), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-12 14:05",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "缓存 113 张候选中数值最优的 q22b_moon_boat_0（亮 96 格 std 10）1:1 目验见左下签名 G. Fjaestad，撞第 90 张已用画家；q22_breton_field 目验为图书馆藏书封面带条码；标作 Inness 的 q24_ton_inness 实为透纳海难，缓存文件名不可作身份依据",
+      "prevention": "Commons API 取元数据齐全的新画家 → 16×8 亮度带 → 1:1 画心目验 → 全系列画家查重，四道筛；身份只认 Commons 元数据不认本地文件名"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "整块 rotate -6 斜排 → 所有行带 y 范围被拉长互相覆盖，只剩 3 层，英文与款识测不到层（layers_found FAIL），门禁删图；撤回整块旋转，改标题 --warp arc 单弧形变，正文/英文/款识保持端正",
+        "prevent": "形变只给标题或短句；整块旋转会让相邻行带合并，verify 分层测量失效（Q21 透视事故的变体）"
+      },
+      {
+        "round": 2,
+        "improve": "arc:24 目验几乎看不出弯；6 层行带其实全达标但 roles 硬编码 8 层导致真款识被误标 en1、contrast_credit=None 假 FAIL；给 verify.py 加 roles 参数 + 配方 meta.band_roles 显式声明，并把弧幅度 24→38",
+        "prevent": "工具层：默认 8 层角色在层数多（Q24 band10）与层数少（Q25 en1）两种情况下都会错位，配方必须能声明真实行带结构；数字达标不替代 1:1 目验形变是否可辨"
+      },
+      {
+        "round": 3,
+        "improve": "角色全对、六层对比 8.57/7.76/6.58–6.88/5.51 全绿，但强调占比 17.21% 超标：42 字短文本染了 6 字；按 8437 正文墨像素反推，6 字→5 字（不是说→不是），下划线 4→2px",
+        "prevent": "短文本强调字数必须由正文墨像素反推，禁止沿用长文的 20 字经验；门禁不达标不落盘"
+      },
+      {
+        "round": 4,
+        "improve": "强调 13.64% 达标，1:1 目验确认 arc:38 弧线肉眼可辨、蜜金强调与细下划线比奶油正文醒目、中英文与款识完整无截断、文字落在天然暗草地且避开月光倒影与左侧人影",
+        "prevent": "出图必打三项数字 + 1:1 底部交界带目验；工具改动后跑 regress / golden check 确认历史配方不受影响"
+      }
+    ],
+    "score": 94,
+    "final_png": "别激发别人的羡慕嫉妒恨_原作乔治英尼斯月升1887布面油画美国色调主义暗褐草地橙金月色_20261112_1405.png"
+  }
+}

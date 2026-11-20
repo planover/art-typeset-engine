@@ -1,0 +1,148 @@
+{
+  "id": "Q29",
+  "no": 97,
+  "title": "选择与被选择",
+  "body": "人的一生都要面对<a>选择和被选择</a>，|能够被选择是幸运，|而有的时候不被选择也是一种幸运，|正因为没有被选择，才遇到了<a>更好</a>的选择，|所以坦然的面对选择与被选择，|因为那都是不同的机会。",
+  "en": "In life we all have to face being chosen and being passed over. To be chosen is a kind of luck, and sometimes, not being chosen is a kind of luck too — precisely because we were not chosen, we met a better choice. So face being chosen and being passed over with equanimity, for they are simply different opportunities.",
+  "credit": "原作 托马斯·希尔《优胜美地，新娘面纱瀑布》1895 · 布面油画",
+  "source": {
+    "doc": "醒与悟1.0.md",
+    "anchor": "s175",
+    "page": 110,
+    "segments": [
+      "人的一生都要面对选择和被选择，能够被选择是幸运，而有的时候不被选择也是一种幸运，正因为没有被选择，才遇到了更好的选择，所以坦然的面对选择与被选择，因为那都是不同的机会。"
+    ],
+    "flat_text": "人的一生都要面对选择和被选择，能够被选择是幸运，而有的时候不被选择也是一种幸运，正因为没有被选择，才遇到了更好的选择，所以坦然的面对选择与被选择，因为那都是不同的机会。"
+  },
+  "meta": {
+    "essay": "选择与被选择",
+    "artist": "托马斯·希尔（Thomas Hill, 1825–1908）",
+    "painting": "优胜美地，新娘面纱瀑布（Yosemite, Bridal Veil Falls）",
+    "year": "1895",
+    "medium": "布面油画",
+    "collection": "美国白宫藏（白宫历史协会，977.1331.1）",
+    "license": "Public domain（PD-Art / PD-old-auto-expired，1908 年卒）",
+    "layout": "亮底深字＋标题轻度波纹（warp wave:14，仅标题形变，正文保持横排）区别于 Q28 整块弓形；行楷标题＋思源黑正文六行按标点手工断行＋EB Garamond 英文＋华文中宋款识四体混排；文字压上半幅浅色天空（底图预先做大羽化柔光烘制消解云层纹理，中位 218–223、std 3.6–23），下方两峰之间的开阔谷口、瀑布与独行者完整保留——未走的路即「更好的选择」；与 Q28 亮底弓形在标题手法与字体上拉开",
+    "accent": "绛朱 190,60,50 ＋ 1px 发丝下划线（11.96%）",
+    "score": 91,
+    "final_png": "选择与被选择_原作托马斯希尔优胜美地新娘面纱瀑布1895布面油画美国哈德逊河派谷口瀑布独行者_20261116_1330.png",
+    "draft": "v13",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "en1",
+      "en2",
+      "en3",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      7
+    ]
+  },
+  "params": {
+    "title_font": "xingkai",
+    "body_font": "sans",
+    "en_font": "garamond",
+    "credit_font": "song",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:190,60,50:220",
+    "accent_fill": "190,60,50",
+    "fill": "38,34,30",
+    "en_fill": "50,44,38",
+    "credit_fill": "52,46,40",
+    "pos": "top",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "20",
+    "wrap": "0",
+    "block_width": "78%",
+    "en_width": "1260",
+    "title_size": "76",
+    "body_size": "30",
+    "en_size": "25",
+    "credit_size": "21",
+    "title_gap": "16",
+    "en_gap": "8",
+    "credit_gap": "26",
+    "title_lh": "1.10",
+    "line_gap": "1.05",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center",
+    "warp": "wave:14",
+    "warp_body": "off"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟1.0.md》锚点 s166（印刷 106）起筛除：s166 学会爱自己（与 Q15/Q27 相邻）、s167 同情心太强（弱势词）、s169 顺应人性（与 Q26 相邻）、s170 配得感（弱势词）、s171 女孩子青春（两性贬低）、s176 弱才喜欢抱团（八字/弱势词）、s180 想赚钱想有钱（风水/阶层词）、s181 气场少说话（与 Q27 相邻）、s182 背禄体质/ s188 命运结构（命理词）、s192 朋友圈价值（命理词）整篇跳过；s175 选择与被选择 84 字定稿，逐字断言 6/6",
+    "see": {
+      "contrast": [
+        6.49,
+        6.58,
+        6.61,
+        6.61,
+        6.6,
+        6.61,
+        6.61,
+        5.05,
+        5.0,
+        4.96,
+        4.73
+      ],
+      "accent_ratio": 0.1196,
+      "bbox": {
+        "top": 91,
+        "bottom": 1463,
+        "left": 145,
+        "right": 144
+      },
+      "bg_std_max": 23.6,
+      "accent_pixels": 2419,
+      "body_ink": 20228,
+      "layers": 11,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False, body_band_slice=(1,7), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-16 13:30",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "三个连锁坑：① verify 的 _ink_x_range 刻意维持 80–1450 基准（Q25 回归保护），窄栏排版会让右侧山体被算进背景 std；② 画布 --grain 0.05 会给纯天空加颗粒，但非主因；③ 云层纹理带落在英文区，bg_std 超标。Q27 的 roles 预估错配（真款识被标 en）在本张同源复发",
+      "prevention": "① 文字块必须覆盖接近全宽（≥78%）使墨区落入 verify 的 x 基准；② 天空有云层纹理时，把大羽化柔光烘进底图（150px 矩形＋105px 高斯），让 verify 测到最终实际背景——这是工具原生的 block_scrim 能力的等价实现，不是数值游戏；③ roles 一律按首渲 find_bands 实测（本张 11 层 title+6body+3en+credit）回填"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "首渲窄栏：强调 16.81% 超标、bg_std 52.6、credit 角色错位",
+        "prevent": "下划线 2→1px；roles 按实测回填"
+      },
+      {
+        "round": 2,
+        "improve": "强调降至 15.66% 仍超、bg_std 仍高；把第二处强调从「更好的选择」缩到「更好」",
+        "prevent": "短文本按墨像素反推字数"
+      },
+      {
+        "round": 3,
+        "improve": "上移过头 top=10 贴边、英文 3.99 差 0.01；发现 verify 的 x 范围固定 80–1450",
+        "prevent": "窄栏与 verify 口径冲突，必须改全宽"
+      },
+      {
+        "round": 4,
+        "improve": "全宽紧凑排版后 en1/en2 std 降到 6.0，证明 x 兜底解法正确；en3/en4 仍落云层带",
+        "prevent": "天空纯净区只到 y≈450，文字总高 500px 装不下"
+      },
+      {
+        "round": 5,
+        "improve": "把 150px 大羽化暖白柔光烘进底图文字区，std 从 50 降到 3–23；bbox 收窄文字块到 78% 后四边距 145/144 达标",
+        "prevent": "1:1 目验确认柔光完全融入天空、无矩形边界或涂抹痕迹；数值与视觉双达标"
+      }
+    ],
+    "score": 91,
+    "final_png": "选择与被选择_原作托马斯希尔优胜美地新娘面纱瀑布1895布面油画美国哈德逊河派谷口瀑布独行者_20261116_1330.png"
+  }
+}

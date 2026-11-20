@@ -1,0 +1,144 @@
+{
+  "id": "Q32",
+  "no": 100,
+  "title": "给自己留点神秘感",
+  "body": "人是<a>喜新厌旧</a>的动物，|人和人在最初相识的时候，新鲜又热情，|一旦熟悉或者相处了一段时间后，新鲜感和热情就会减退，|因为人会对完全看透且了解的东西失去兴趣，|甚至是失去当初对彼此的欣赏和尊重。|所以对任何人不要轻易<a>展示自己的全部</a>，|不是刻意隐瞒，也不是虚伪，|而是给自己留点<a>神秘感和底牌</a>，|别人才不至于很快对你失去兴趣，|太过展示自己，会让别人对你失去期待和想象空间。",
+  "en": "People are naturally drawn to novelty. At first acquaintance, everything feels fresh and warm; but once familiarity sets in, that freshness fades — we lose interest in what we think we fully understand, and even the admiration we once felt begins to slip. So never show everything of yourself at once. This is not deception, nor dishonesty; it is leaving a little mystery and something held back, so others do not lose interest too quickly. Give too much of yourself away, and you leave them nothing to anticipate, nothing to imagine.",
+  "credit": "原作 阿尔希普·库因哲（Arkhip Kuindzhi, 1841–1910）《第聂伯河上的夜月》1882 · 布面油画",
+  "source": {
+    "doc": "醒与悟1.0.md",
+    "anchor": "s243",
+    "page": 119,
+    "segments": [
+      "人是喜新厌旧的动物，人和人在最初相识的时候，新鲜又热情，一旦熟悉或者相处了一段时间后，新鲜感和热情就会减退，因为人会对完全看透且了解的东西失去兴趣，甚至是失去当初对彼此的欣赏和尊重。所以对任何人不要轻易展示自己的全部，不是刻意隐瞒，也不是虚伪，而是给自己留点神秘感和底牌，别人才不至于很快对你失去兴趣，太过展示自己，会让别人对你失去期待和想象空间。"
+    ],
+    "flat_text": "人是喜新厌旧的动物，人和人在最初相识的时候，新鲜又热情，一旦熟悉或者相处了一段时间后，新鲜感和热情就会减退，因为人会对完全看透且了解的东西失去兴趣，甚至是失去当初对彼此的欣赏和尊重。\n\n所以对任何人不要轻易展示自己的全部，不是刻意隐瞒，也不是虚伪，而是给自己留点神秘感和底牌，别人才不至于很快对你失去兴趣，太过展示自己，会让别人对你失去期待和想象空间。"
+  },
+  "meta": {
+    "essay": "给自己留点神秘感，你和别人的关系更长久",
+    "artist": "阿尔希普·库因哲（Arkhip Kuindzhi, 1841–1910）",
+    "painting": "第聂伯河上的夜月",
+    "year": "1882",
+    "medium": "布面油画",
+    "collection": "俄罗斯国家博物馆藏",
+    "license": "Public domain（PD-old-auto-expired，1910 年卒）",
+    "layout": "暗底浅字（中位 1 的纯净夜河）+ 文字压中部纯黑河面 y600–1400，上方月轮与云层、下方远岸篝火完整保留——『留点神秘感/底牌』的视觉双关：月光只照亮局部，其余隐在暗处，正是想象空间；庆科黄油体标题＋思源宋正文十行按标点手工断行＋EB Garamond 英文＋霞鹜文楷款识四体混排；与 Q31 亮底空旷／毛笔标题／上半块全面对跖，第 100 张里程碑",
+    "accent": "绛朱 168,52,32 ＋ 1px 发丝下划线（12.50%）",
+    "score": 95,
+    "final_png": "给自己留点神秘感_原作阿尔希普库因哲第聂伯河上的夜月1882布面油画俄罗斯现实主义月夜幽光_20261120_1323.png",
+    "draft": "v3",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "body7",
+      "body8",
+      "body9",
+      "body10",
+      "en1",
+      "en2",
+      "en3",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      11
+    ]
+  },
+  "params": {
+    "title_font": "qingke",
+    "body_font": "serif",
+    "en_font": "garamond",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:168,52,32:180",
+    "accent_fill": "168,52,32",
+    "fill": "246,238,214",
+    "en_fill": "234,226,202",
+    "credit_fill": "226,216,190",
+    "pos": "middle",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "0",
+    "wrap": "0",
+    "block_width": "76%",
+    "en_width": "1340",
+    "title_size": "82",
+    "body_size": "32",
+    "en_size": "25",
+    "credit_size": "21",
+    "title_gap": "34",
+    "en_gap": "16",
+    "credit_gap": "26",
+    "title_lh": "1.16",
+    "line_gap": "1.16",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟1.0.md》锚点 s214（印刷 112 页）起筛除：s214 隐性价值（两性标签）、s216 好的关系相互旺（与 Q30 撞链）、s217 短视（阶层表述）、s219 人品（OCR 损坏）、s221 值钱的话/ s226 利他思维/ s227 做桩思维（术数词与 Q15/Q16 撞链）、s230 巨婴思维（可悲幼稚标签）、s241 冷与独（与 Q27 撞链）、s242 你越在乎（OCR 重度损坏）、s245 改命（风水命理词）整篇跳过；s243 两段 174 字定稿（零 OCR 损坏），逐字断言 6/6",
+    "see": {
+      "contrast": [
+        80.49,
+        94.02,
+        108.01,
+        108.01,
+        108.01,
+        94.02,
+        94.02,
+        111.22,
+        111.22,
+        107.45,
+        125.35,
+        119.16,
+        119.16,
+        119.16,
+        105.72
+      ],
+      "accent_ratio": 0.125,
+      "bbox": {
+        "top": 665,
+        "bottom": 668,
+        "left": 106,
+        "right": 106
+      },
+      "bg_std_max": 1.2,
+      "accent_pixels": 4240,
+      "body_ink": 33910,
+      "layers": 16,
+      "measured_by": "art_typeset.verify.verify(dark_bg=True, body_band_slice=(1,11), roles=meta.band_roles) · spec.ACCENT_POLICY=continuous_band_with_underline_v1",
+      "measured_at": "2026-11-20 13:23",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "首渲只有左右边距 70/72（门槛 80）不达标；先误判为文字块过宽，收窄 block_width 80→76%、en_width 1240→1180 无效，再加大 en_width 到 1340 仍无效——最终定位到 band15（y1360-1378，x70-1463）是款识第二行：款识含俄文原名括号过长而折行，独立成带且撑宽墨区",
+      "prevention": "① 极暗底（中位 1）时任何差分都被 capture，bbox 异常先按行带定位来源，别先改宽度；② 款识含外文原名＋长括号极易折行——缩短为纯中文画名，画家英文名与年份保留即可；③ 第 100 张暗底浅字与 Q31 亮底空旷全面对跖，月夜「只照亮局部、其余隐在暗处」正是文案双关"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "首渲对比 80–125:1（系列最高，暗底浅字）、强调 12.50% 均达标，唯一 FAIL 是左右边距 70/72",
+        "prevent": "不目测猜因，按行带定位 x 极值来源"
+      },
+      {
+        "round": 2,
+        "improve": "收窄 block_width/en_width、再加宽 en_width，边距均不变——确认非正文/英文块问题",
+        "prevent": "两次调宽无效即停止（GSTD 时间盒），改查差分来源"
+      },
+      {
+        "round": 3,
+        "improve": "定位 band15 是款识折行（俄文原名＋长括号）→ 缩短画名为纯中文，边距升至 106/106 全绿；1:1＋放大目验月轮、幽绿河光、篝火、三处绛朱完整",
+        "prevent": "款识字数上限：含外文名时须实测是否折行，超长即删外文原名/括号"
+      }
+    ],
+    "score": 95,
+    "final_png": "给自己留点神秘感_原作阿尔希普库因哲第聂伯河上的夜月1882布面油画俄罗斯现实主义月夜幽光_20261120_1323.png"
+  }
+}

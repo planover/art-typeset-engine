@@ -1,0 +1,38 @@
+# ============================================================
+# 名画融合文字图 · 工具引擎仓 (.gitignore)
+# 位置：C:\Users\admin\Documents\tietuai\.gitignore
+# 原则：推引擎与配方，排除记忆/缓存/临时图
+# ============================================================
+
+# --- 隐私与 WorkBuddy 内部数据（绝不外传）---
+.workbuddy-ai/
+.workbuddy/
+*.miora
+
+# --- Python 缓存 ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- 大体积临时素材（ Commons 下载原图、烘制中间稿）---
+*.tif
+*.tiff
+*_base.png
+*_draft.png
+*_view.png
+*_zoom.png
+*_sheet*.png
+*_thumb.png
+
+# --- golden 快照：18 张 × ~4MB = 72MB，默认排除；
+#     如需回归基线完整复现，删掉下面这行再推 ---
+art_typeset/golden/
+
+# --- 系统垃圾 ---
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log

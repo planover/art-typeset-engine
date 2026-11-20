@@ -1,0 +1,62 @@
+{
+ "no": 70,
+ "id": "Q2",
+ "title": "谈钱不伤感情",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/vermeer_balance.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 760,
+  "dt": "10-16 18:44",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "谈钱不伤感情",
+  "body": "谈钱不伤感情，<a>不谈钱的最后都伤了感情</a>。给钱，给建议，|不给钱没意见，有付出意识的忙，帮，没有付出意识的忙，不帮，|不是说吝啬，而是没有付出意识的忙，帮了，别人不会珍惜，|不给钱的建议，给了，<a>别人就不会当回事</a>。",
+  "en": "Talking about money does not hurt a relationship; those who never talk about it are the ones who end up hurting it. Give money, give advice; if no money is given, have no complaints. A favor given with a sense of payment - help; a favor without it - do not help. This is not stinginess: help without that sense will not be cherished, and advice given for free will not be taken seriously.",
+  "credit": "原作 维米尔《持天平的女人》约1664年 · 荷兰布面油画 · 灰蓝墙暖光"
+ },
+ "params": {
+  "crop-x": "0.0",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "kai",
+  "title-size": "80",
+  "title-weight": "700",
+  "spacing": "6",
+  "body-size": "26",
+  "body-spacing": "1",
+  "line-gap": "1.62",
+  "wrap": "0",
+  "first-indent": "2",
+  "en-size": "24",
+  "en-width": "40%",
+  "en-fill": "202,192,166",
+  "en-italic": "on",
+  "credit-size": "17",
+  "credit-fill": "196,186,160",
+  "fill": "44,31,20",
+  "accent-fill": "40,54,98",
+  "inline-accent": "<a>",
+  "shadow": "2,3,12,70",
+  "align": "left",
+  "pos": "top",
+  "body-pos": "upper",
+  "body-y-shift": "-64",
+  "en-pos": "middle",
+  "en-align": "left",
+  "en-y-shift": "-307",
+  "credit-bottom": "on",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "谈钱不伤感情不谈钱的最后都伤了感情给钱给建议不给钱没意见有付出意识的忙帮没有付出意识的忙不帮不是说吝啬而是没有付出意识的忙帮了别人不会珍惜不给钱的建议给了别人就不会当回事_原作维米尔持天平的女人约1664年荷兰布面油画灰蓝墙暖光_20261016_1744.png",
+  "rc": 0,
+  "candidates_tested": 3
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}

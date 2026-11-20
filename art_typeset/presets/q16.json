@@ -1,0 +1,109 @@
+{
+  "id": "Q16",
+  "no": 84,
+  "title": "不回复，就是拒绝",
+  "body": "成年人的世界，别人不回复，不回答，<a>实际上就是拒绝回答</a>，成年人的体面就是懂得<a>知难而退</a>，|再熟的人都要保持一定的边界感的，不要为难了别人，又尴尬了自己，|最后还要怪人家为什么冷漠，为什么疏远你，实际上是自己看不懂别人的<a>言外之意</a>。",
+  "en": "In the adult world, when someone does not reply, does not answer, it is already a refusal. A grown-up's dignity lies in knowing when to step back. However close you are, there must still be boundaries; do not put others on the spot and embarrass yourself. And then you wonder why they seem cold, why they drift away — when in truth, it is you who could not read what was left unsaid.",
+  "credit": "原作 特·博尔赫《风雅对话》约1654 · 布面油画",
+  "source": {
+    "page": 41,
+    "segments": [
+      "成年人的世界，别人不回复，不回答，实际上就是拒绝回答，成年人的体面就是懂得知难而退，",
+      "再熟的人都要保持一定的边界感的，不要为难了别人，又尴尬了自己，最后还要怪人家为什么冷漠，为什么疏远你，实际上是自己看不懂别人的言外之意。"
+    ],
+    "flat_text": "29会得到别人的尊重和重视，也得不到任何货真价实的好处，因为别人对你的尊重和重视，完全取决于自己的价值。公司里面，表面上看老好人好像人缘很好，那是因为他对别人不存在威胁，且好说话，不懂得拒绝人，随时都可以被当免费的工具人，但一旦涉及利益关系，他们是不会对他客气的，有好事也不会想到他，只会剥削他，因为他是没有原则，没有态度的人。不回复就是拒绝成年人的世界，别人不回复，不回答，实际上就是拒绝回答，成年人的体面就是懂得知难而退，如果连这都看不懂的话，在这个社会上是很容易碰壁的，会让很多关系变得尴尬，再熟的人都要保持一定的边界感的，不要为难了别人，又尴尬了自己，最后还要怪人家为什么冷漠，为什么疏远你，实际上是自己看不懂别人的言外之意。敢于说“不”一个从来不想得罪人，不敢得罪人的人是很难做成事的，这就好比一个人从来不敢吃苦，不敢吃亏，一直躲在安全地带，是永远不可能成长的，人生没有受过伤害，没有痛过怎么可能成长和变聪明呢，适当的锋芒和敢于说“不”，很多时候会帮我们筛选和过滤掉很多不合适的人。关系破裂的原因任何一种关系，如果长期处于一个价值不对等的状态下，最后的结局一定不会太好。"
+  },
+  "meta": {
+    "essay": "不回复就是拒绝",
+    "artist": "杰拉德·特·博尔赫",
+    "painting": "风雅对话",
+    "year": "约1654–55",
+    "score": 94,
+    "layout": "Γ形三区＋共享明暗边界",
+    "accent": "朱红（画中红帷幕）",
+    "final_png": "不回复就是拒绝_原作杰拉德特博尔赫风雅对话约1654年荷兰黄金时代布面油画墨绿暗墙朱红帷幕缎金_20261106_1333.png"
+  },
+  "_salvage": {
+    "script": "q16_render.py",
+    "base": "q16_base.png",
+    "reference_out": "q16_final.png",
+    "note": "从渲染脚本自动抢救；source 段待补原文逐字校验"
+  },
+  "params": {
+    "wrap": "43",
+    "title_font": "song",
+    "body_font": "kai",
+    "credit_font": "hei",
+    "en_font": "garamond",
+    "en_italic": "on",
+    "inline_accent": "<a>",
+    "scrim": "0",
+    "grain": "0.16",
+    "credit_gap": "32",
+    "halo": "28,18,10:16:140",
+    "en_pos": "upper",
+    "en_align": "right",
+    "en_width": "520",
+    "en_x_shift": "-40",
+    "en_y_shift": "150",
+    "aux_align": "center",
+    "aux_x_shift": "400",
+    "title_size": "80",
+    "body_size": "28",
+    "en_size": "25",
+    "credit_size": "21",
+    "accent_fill": "238,128,92",
+    "fill": "238,228,204",
+    "en_fill": "228,214,186",
+    "credit_fill": "255,252,240"
+  },
+  "pdca": {
+    "go": {
+      "source_page": 41,
+      "verbatim": "2 段逐字",
+      "probed": true
+    },
+    "see": {
+      "contrast": [
+        8.63,
+        8.21,
+        8.21,
+        8.13,
+        7.72,
+        4.27,
+        3.23,
+        3.18,
+        3.07,
+        3.14,
+        3.5,
+        3.63
+      ],
+      "accent_ratio": 0.1658,
+      "bbox": {
+        "top": 80,
+        "bottom": 82,
+        "left": 181,
+        "right": 102
+      },
+      "ok": false
+    },
+    "think": {
+      "root_cause": "天然暗/亮区放字，避开衬底",
+      "prevention": "写进 spec 硬门槛与 preflight 断言"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "选画探针 + 定位落暗区",
+        "prevent": "固化亮度带第零条"
+      },
+      {
+        "round": 2,
+        "improve": "字号/强调/衬底微调至三项数字达标",
+        "prevent": "verify 不达标不落盘"
+      }
+    ],
+    "score": 94,
+    "final_png": "不回复就是拒绝_原作杰拉德特博尔赫风雅对话约1654年荷兰黄金时代布面油画墨绿暗墙朱红帷幕缎金_20261106_1333.png"
+  }
+}

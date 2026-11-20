@@ -1,0 +1,59 @@
+{
+ "no": 71,
+ "id": "Q3",
+ "title": "健康的关系是保持适当的距离",
+ "base": "/c/Users/admin/Documents/tietu/.workbuddy-ai/tmp/route2/hammershoi_reading.jpg",
+ "source": {
+  "session": "fa164457",
+  "line": 878,
+  "dt": "10-16 18:59",
+  "kind": "历史会话 Bash 调用 local_typeset.py（CLI 参数原样）"
+ },
+ "text": {
+  "title": "健康的关系|是保持适当的距离",
+  "body": "无论是自己对别人期待值过高，还是别人对自己期待值过高，|都是导致后来关系<a>淡化</a>、疏远、破裂的重要原因，|人和人之间想要有一个健康良好的关系，一定要<a>保持适当的距离</a>，|喜欢、尊重，但不过度靠近，也不过度期待。",
+  "en": "Whether it is you or others who expect too much, it is a key reason why relationships later fade, grow distant, and fall apart. If you want a healthy, sound relationship with someone, you must keep a proper distance: like and respect, but do not get too close, and do not expect too much.",
+  "credit": "原作 哈默肖伊《读信的女士》约1900年 · 丹麦布面油画 · 冷灰调暖光"
+ },
+ "params": {
+  "crop-x": "0.5",
+  "font": "song",
+  "title-font": "song",
+  "body-font": "kai",
+  "credit-font": "kai",
+  "title-size": "72",
+  "title-weight": "700",
+  "spacing": "4",
+  "title-lh": "1.16",
+  "body-size": "26",
+  "body-spacing": "1",
+  "line-gap": "1.62",
+  "wrap": "0",
+  "en-size": "24",
+  "en-width": "700",
+  "en-fill": "202,192,166",
+  "credit-size": "17",
+  "credit-fill": "196,186,160",
+  "fill": "44,31,20",
+  "accent-fill": "120,80,42",
+  "inline-accent": "<a>",
+  "shadow": "2,3,12,70",
+  "align": "right",
+  "pos": "top",
+  "body-pos": "upper",
+  "aux-bottom": "on",
+  "aux-align": "left",
+  "aux-lift": "60",
+  "grain": "0.25"
+ },
+ "verified": true,
+ "max_diff": 0,
+ "diff_frac": 0.0,
+ "verify": {
+  "method": "用当前 local_typeset.py 按历史参数重渲，与交付 PNG 逐像素比对",
+  "delivered": "健康的关系是保持适当的距离无论是自己对别人期待值过高还是别人对自己期待值过高都是导致后来关系淡化疏远破裂的重要原因人和人之间想要有一个健康良好的关系一定要保持适当的距离喜欢尊重但不过度靠近也不过度期待_原作哈默肖伊读信的女士约1900年丹麦布面油画冷灰调暖光_20261016_1801.png",
+  "rc": 0,
+  "candidates_tested": 5
+ },
+ "_note": "档案级抢救参数（已验证：重渲 max diff 0，可复现交付图）；未升级为 presets 因为 source.segments 未另行逐字校验"
+}
