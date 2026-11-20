@@ -1,0 +1,48 @@
+name: 口径与方法论验算
+
+# 云端只做「验算」不渲染：零字体依赖，公开仓标准 Linux runner 永久免费。
+# 触发：配方/脚本/台账推送后；也可手动触发。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'art_typeset/**'
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest   # public 仓标准 runner，$0/分钟
+    steps:
+      - name: 拉取工具引擎
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖（仅 Pillow + NumPy，无字体）
+        run: pip install pillow numpy
+
+      - name: 1) 全部配方门禁
+        run: python -m art_typeset check --all
+
+      - name: 2) 全部配方方法论合规
+        run: python -m art_typeset methodology all
+
+      - name: 3) golden 快照存在性
+        run: python -m art_typeset golden check
+
+      - name: 4) 逐像素回归（golden 已在仓内时启用）
+        run: |
+          if [ -d art_typeset/golden ] && [ "$(ls -A art_typeset/golden 2>/dev/null)" ]; then
+            python -m art_typeset regress
+          else
+            echo "golden 快照未纳入本仓（.gitignore 排除），跳过逐像素回归"
+          fi
+
+# 注意：
+# - 本工作流不加载任何字体文件，因此不涉及字体授权问题。
+# - 六处口径审计（derive audit）依赖内容仓台账，需跨仓读取；
+#   若需启用，可在内容仓单独配置 workflow 并用 checkout 拉两仓。
