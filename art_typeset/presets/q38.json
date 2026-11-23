@@ -1,0 +1,152 @@
+{
+  "id": "Q38",
+  "no": 106,
+  "title": "手中有刀，心中有佛",
+  "body": "人到中年，<a>手中有刀</a>，<a>心中有佛</a>。|<a>大事狠如猛虎</a>，事了闲看落花。|个人感悟就是该做事时拼命，该玩时尽兴玩好，|工作和生活必须有所区分。|除了生老病死，人生里真正重要的事，其实没有几件。|没必要为了小事愁容满面，|也没必要去跟小人争个长短。|如果厌恶身边的人，|表达厌恶最好的方式不是和他们争吵，|而是自己努力，加把劲离开他们。",
+  "en": "In middle age, carry a blade in one hand and a Buddha in the other. Be fierce as a tiger when the moment demands it; when it's over, sit quietly and watch the flowers fall. Work hard when it's time to work, and play wholeheartedly when it's time to play — keep the two apart. Apart from birth, aging, illness and death, there are very few things that truly matter. Don't wear yourself out over small grievances, and don't waste breath arguing with petty people. If you dislike someone, the best way to show it is not to argue — it's to work harder and leave them behind.",
+  "credit": "原作 岸竹堂（Kishi Chikudō, 1856–1897）《虎与幼虎》1892 · 绢本设色六曲屏风",
+  "source": {
+    "doc": "醒与悟2.0.md",
+    "anchor": "sec-130",
+    "page": 130,
+    "segments": [
+      "人到中年，手中有刀，心中有佛。大事狠如猛虎，事了闲看落花。个人感悟就是该做事时拼命，该玩时尽兴玩好，工作和生活必须有所区分。除了生老病死，人生里真正重要的事，其实没有几件。没必要为了小事愁容满面，也没必要去跟小人争个长短。如果厌恶身边的人，表达厌恶最好的方式不是和他们争吵，而是自己努力，加把劲离开他们。"
+    ],
+    "flat_text": "1，以前我们总认为，朋友多了路好走，现实是，你的路好走了，才会朋友多。你要是想给人讲道理，你就要混得比人好。因为，许多时候，不等你开口，你的身份，就把道理讲清楚了。有时候，让你闭嘴的，不是道理问题，而是身份问题。强者都是弱者成就的，但强者却不喜欢与弱者伍；富人都是穷人供养的，但富人却不屑于与穷人同乐。这个世界最悲哀的就是，自己穷困潦倒，还总想做个老好人。要做好人，不要做老好人，老好人其实就是无能而又可悲的。永远要和所有人保持适当的距离，某种程度上，人是最贱的物种，白分之白的坦率和忠诚，就意味着你将百分之百的被欺负。\n\n2，人到中年，手中有刀，心中有佛。大事狠如猛虎，事了闲看落花。个人感悟就是该做事时拼命，该玩时尽兴玩好，工作和生活必须有所区分。除了生老病死，人生里真正重要的事，其实没有几件。没必要为了小事愁容满面，也没必要去跟小人争个长短。如果厌恶身边的人，表达厌恶最好的方式不是和他们争吵，而是自己努力，加把劲离开他们。\n\n3，如果你混的很差又不改变时，不要觉得自己的人生己经跌入谷底，其实你还有很长的一段下降距离。有时候我们需要的不是一碗鸡汤，而是一记巴掌，巴掌很多时候比鸡汤管用，没钱时别试图去结交很广的人脉，想拥有真心朋友，你必须得有点成就和钱财，没有这些，其实你连一个朋友都没有，你所谓的朋友，充其量只不过是熟人。"
+  },
+  "meta": {
+    "essay": "第五节成年人看透三件事 · 段1",
+    "artist": "岸竹堂（Kishi Chikudō, 1856–1897）",
+    "painting": "虎与幼虎",
+    "year": "1892",
+    "medium": "绢本设色六曲屏风",
+    "collection": "大都会艺术博物馆藏（MET）",
+    "license": "CC0（Met Open Access）",
+    "layout": "亮底深字＋文字压中部极净绢面（y400–900 中位 154–162、std 1–7 系列最净），上部留装裱边框、下部猛虎与幼虎完整——『大事狠如猛虎，事了闲看落花』直白点题：虎的刚猛与绢面的宁静并置即刚柔并济；行楷标题＋思源宋正文十行按标点手工断行＋Garamond 英文＋霞鹜文楷款识四体混排；与 Q37 暗底数钱老妇亮暗对跖",
+    "accent": "深朱 190,20,30 ＋ 1px 发丝下划线（10.06%）",
+    "score": 88,
+    "final_png": "手中有刀心中有佛_原作岸竹堂虎与幼虎1892绢本设色六曲屏风大都会艺术博物馆伏虎幼虎_20261123_1313.png",
+    "draft": "v6-neutralized-silk",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "body7",
+      "body8",
+      "body9",
+      "body10",
+      "en1",
+      "en2",
+      "en3",
+      "en4",
+      "en5",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      11
+    ]
+  },
+  "params": {
+    "title_font": "xingkai",
+    "body_font": "serif",
+    "en_font": "garamond",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:190,20,30:120",
+    "accent_fill": "190,20,30",
+    "fill": "18,16,14",
+    "en_fill": "26,22,18",
+    "credit_fill": "28,24,20",
+    "pos": "top",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "180",
+    "wrap": "0",
+    "block_width": "80%",
+    "en_width": "1240",
+    "title_size": "82",
+    "body_size": "34",
+    "en_size": "26",
+    "credit_size": "21",
+    "title_gap": "30",
+    "en_gap": "18",
+    "credit_gap": "26",
+    "title_lh": "1.16",
+    "line_gap": "1.20",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟2.0.md》锚点 sec-098 起扫 49 篇候选：sec-098 群发祝福（含 OCR 乱码 10u）、sec-099 利益至上（与 Q35 关系链撞）、sec-100 心理博弈（弱势词）、sec-102~117 婚恋篇（关系链撞）、sec-118~125 育儿篇（主题不合）、sec-126~129 忠告篇（与 Q36/Q37 撞链）、sec-136 短期快感（与 Q36 投资自己略近）、sec-139 放弃做好人（与 Q34 撞链）整篇跳过；sec-130 段1「手中有刀心中有佛」152 字定稿（去编号「2，」结构标记），断言 6/6",
+    "see": {
+      "contrast": [
+        10.3,
+        10.39,
+        10.42,
+        10.45,
+        10.45,
+        10.45,
+        10.46,
+        10.46,
+        10.46,
+        10.47,
+        7.4,
+        7.4,
+        7.4,
+        7.42,
+        7.44,
+        6.83
+      ],
+      "accent_ratio": 0.1006,
+      "bbox": {
+        "top": 241,
+        "bottom": 1007,
+        "left": 153,
+        "right": 152
+      },
+      "bg_std_max": 14.5,
+      "accent_pixels": 3185,
+      "body_ink": 31657,
+      "layers": 17,
+      "measured_by": "art_typeset.verify.verify(dark_bg=False, body_band_slice=(1,11), roles=meta.band_roles)",
+      "measured_at": "2026-11-23 13:13",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "选画四连败：① 石恪《二祖调心图》主题绝配但泼墨铺满中段、std 56 且文字压画毁韵味；② Conte 剑静物上半中位 52→74 属中间调死区（对比 2.9–4.4 全挂）；③ 岸竹堂虎画净度极佳（std 1–7、对比 10:1）但金黄绢底 R-B=110 撞 `_gold_mask` 色相差识别，整片正文被误判为金色（强调虚高 29.6%）；④ 降下划线 alpha/换强调色均无效（29.6→28.6→28.7），真凶是底色色相而非强调色",
+      "prevention": "① 选画铁律第零条要前置到网格阶段：底色亮度带（中位≤45或≥150）＋色相（金色/暖橙底禁用色相差强调识别）；② 金黄底用中性灰柔光（225 alpha／75px 高斯、取亮度中位做 R=G=B）把色相差 110→13–17（低于 R-B>30 阈值），std 同步降到 1–14，虎身保留原色；③ 诊断 verdict 说「下划线主导」也可能是底色误捕——看 rg 中位（本张 33 异常低）与纯色占比（0.262）交叉判断，别只信单一结论"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "石恪禅画首渲 bg_std 56.6、文字压泼墨毁画；按元规则先 diagnose 再目验",
+        "prevent": "诊断+目验双保险，确认柔光会毁泼墨韵味即换画"
+      },
+      {
+        "round": 2,
+        "improve": "Conte 剑静物中位 52→74 中间调死区，对比 2.9–4.4 全挂；诊断 std 正常但亮度带违规",
+        "prevent": "diagnose 不测亮度带，须在选画网格阶段筛查（记忆铁律第零条）"
+      },
+      {
+        "round": 3,
+        "improve": "岸竹堂虎画净度/对比全绿，但强调 29.6% 虚高；diagnose 判下划线主导，降 alpha/换色均无效",
+        "prevent": "交叉看 rg 中位 33＋纯色占比 0.262，定位为金黄绢底色相误捕"
+      },
+      {
+        "round": 4,
+        "improve": "中性灰柔光中和底色色相（R-B 110→13），强调 29.6→10.06% 健康、std 14.5 全绿；目验虎身完整、过渡自然",
+        "prevent": "烘制底图同步作 verify base；中性化只作用文字区，保留画面主体原色"
+      }
+    ],
+    "score": 88,
+    "final_png": "手中有刀心中有佛_原作岸竹堂虎与幼虎1892绢本设色六曲屏风大都会艺术博物馆伏虎幼虎_20261123_1313.png"
+  }
+}
