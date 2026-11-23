@@ -1,0 +1,151 @@
+{
+  "id": "Q37",
+  "no": 105,
+  "title": "人情比钱更贵",
+  "body": "能用钱解决的事，<a>尽量不要用熟人帮忙</a>，|是人都有局限性。|搬家呢，不要找朋友，即使你们关系再好，|他们也弄不好。|因为干的好也没有什么好处，|就算你给好处，他们又不好意思要。|你记住，他不要钱，这个活他就不可能干的好。|以后遇到问题，直接花钱找陌生人。|因为我们对陌生人的服务不满意，我们可以提出来。|而我们对熟人不能不满意。|能用钱解决的事儿，<a>不要欠人情</a>，|因为<a>人情比钱更贵</a>。",
+  "en": "If money can solve it, don't ask a friend — everyone has their limits. Don't call on friends to help you move, no matter how close you are; they still won't do it well. Even if you pay them back, they'll be too embarrassed to take it. And if they won't take money, they won't do a proper job. Next time, just hire a stranger. With a stranger, you can say the service wasn't good enough. With a friend, you can't. Use money instead of owing a favor — a favor costs more than money ever will.",
+  "credit": "原作 约翰·格奥尔格·迈耶圈作（Circle of Johann Georg Meyer, 1813–1871）《数钱的老妇（Geldzählendes Mütterchen）》19世纪 · 木板油画",
+  "source": {
+    "doc": "醒与悟2.0.md",
+    "anchor": "sec-097",
+    "page": 97,
+    "segments": [
+      "能用钱解决的事，尽量不要用熟人帮忙，是人都有局限性。搬家呢，不要找朋友，即使你们关系再好，他们也弄不好。因为干的好也没有什么好处，就算你给好处，他们又不好意思要。你记住，他不要钱，这个活他就不可能干的好。以后遇到问题，直接花钱找陌生人。因为我们对陌生人的服务不满意，我们可以提出来。而我们对熟人不能不满意。能用钱解决的事儿，不要欠人情，因为人情比钱更贵。"
+    ],
+    "flat_text": "第一，不要随意嘲讽对方喜欢的人或者爱好，这样很容易让他觉得你在嘲讽他本人，且不尊重他。\n\n第二，在别人不需要提意见的时候，随便给出意见，并且是批评性的意见，让别人会觉得被冒犯到，很多时候，人给出意见并不是为了帮助对方改变，而是想显得自己有观点，这种时候要学会闭嘴，第三，任何时候不要替别人做决定，哪怕是非常亲密的朋友，甚至是家人，因为每个人的人生都是自己的，你可以给岀意见，但是做决定的，必须得是他本人，要不然决定做错了，他会怪你一辈子，第四，答谢别人的时候要有一个行为上的回馈，可以请人吃顿饭，可以送上别人喜欢的东西，行动永远大过于语言的表达，第五，当别人没有回复你的消息，没有给你确切的承诺，没有给你具体时间的约定，都是一种体面的拒绝，这时候就不要再追问了。\n\n第六，能用钱解决的事，尽量不要用熟人帮忙，是人都有局限性。搬家呢，不要找朋友，即使你们关系再好，他们也弄不好。因为干的好也没有什么好处，就算你给好处，他们又不好意思要。你记住，他不要钱，这个活他就不可能干的好。以后遇到问题，直接花钱找陌生人。因为我们对陌生人的服务不满意，我们可以提出来。而我们对熟人不能不满意。能用钱解决的事儿，不要欠人情，因为人情比钱更贵。"
+  },
+  "meta": {
+    "essay": "第九节被人尊崇的社交法则 · 段2",
+    "artist": "约翰·格奥尔格·迈耶圈作（Circle of Johann Georg Meyer, 1813–1871）",
+    "painting": "数钱的老妇（Geldzählendes Mütterchen）",
+    "year": "19世纪",
+    "medium": "木板油画",
+    "collection": "私人藏（Dorotheum 图版）",
+    "license": "Public domain（PD-old-100）",
+    "layout": "暗底浅字＋文字压上半幅极净暗背景（y200–500 中位 40–44、std 4–10），下半老妇独坐数钱——『用钱解决、不欠人情』的视觉双关：钱货两清、谁也不欠谁；黑体标题＋思源宋正文十二行按标点手工断行＋Times 英文＋霞鹜文楷款识四体混排；与 Q36 炉火苦读／庆科黄油区分：本张数钱老妇／黑体／极简室内",
+    "accent": "绛朱 168,52,32 ＋ 1px 发丝下划线（11.34%）",
+    "score": 90,
+    "final_png": "人情比钱更贵_原作约翰格奥尔格迈耶圈作数钱的老妇19世纪木板油画私人藏暗室数币_20261123_1252.png",
+    "draft": "v3-baked-brightened",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "body7",
+      "body8",
+      "body9",
+      "body10",
+      "body11",
+      "body12",
+      "en1",
+      "en2",
+      "en3",
+      "en4",
+      "en5",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      13
+    ]
+  },
+  "params": {
+    "title_font": "hei",
+    "body_font": "serif",
+    "en_font": "times",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:168,52,32:200",
+    "accent_fill": "168,52,32",
+    "fill": "255,252,245",
+    "en_fill": "250,246,232",
+    "credit_fill": "245,238,218",
+    "pos": "top",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "40",
+    "wrap": "0",
+    "block_width": "80%",
+    "en_width": "1240",
+    "title_size": "80",
+    "body_size": "32",
+    "en_size": "26",
+    "credit_size": "21",
+    "title_gap": "30",
+    "en_gap": "18",
+    "credit_gap": "26",
+    "title_lh": "1.16",
+    "line_gap": "1.20",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟2.0.md》锚点 sec-058 起扫 43 篇候选：sec-058/059 牛人特征/弱者思维（列表长篇）、sec-061~065 职场潜规则（与 Q35 边界链撞）、sec-067~083 情感篇（与已出关系链撞）、sec-091 段4 不在乎别人看法（与 Q36 撞链）、sec-091 段1/段0 含 OCR 损坏（■=/＜=）、sec-095 功利社交（阶层词）、sec-100 心理博弈（弱势词）整篇跳过；sec-097 段2「人情比钱更贵」177 字定稿（去段首编号「第六，」结构标记），逐字断言 6/6",
+    "see": {
+      "contrast": [
+        5.02,
+        5.04,
+        5.1,
+        5.22,
+        5.33,
+        5.41,
+        5.7,
+        5.83,
+        5.78,
+        5.96,
+        5.99,
+        6.13,
+        6.18,
+        6.05,
+        5.84,
+        6.2,
+        6.58,
+        6.28
+      ],
+      "accent_ratio": 0.1134,
+      "bbox": {
+        "top": 103,
+        "bottom": 1095,
+        "left": 92,
+        "right": 93
+      },
+      "bg_std_max": 20.3,
+      "accent_pixels": 3682,
+      "body_ink": 32465,
+      "layers": 19,
+      "measured_by": "art_typeset.verify.verify(dark_bg=True, body_band_slice=(1,13), roles=meta.band_roles)",
+      "measured_at": "2026-11-23 12:52",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "首渲三个问题：① roles 少一层（英文97词折5行，声明4行）；② bg_std 40 在 y708–806（英文压到数钱老妇头部/钱币区）；③ contrast_body 4.78（底色中位 47 偏亮，奶油字 244,236,212 对比不足）",
+      "prevention": "① 97 词英文按 Q36 教训预填 5 个 en；② 对文字区下半 y560–960 做大羽化柔光（130 alpha／85px 高斯、取暗主色 50,36,28）把人物淡化到半透明背景，std 40→20，目验确认老妇双手/钱币/面部完整；③ 对比不足靠提亮字色（244,236,212→255,252,245）精准一次解决，不动字号位移"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "首渲 contrast 4.78 + bg_std 40 + roles 少一层；按元规则先跑 diagnose 定位三因",
+        "prevent": "诊断输出 std 沿 y 分布与 roles_suggestion，避免盲目调参"
+      },
+      {
+        "round": 2,
+        "improve": "roles 补第5个 en；柔光烘底 std 40→20，目验底图主体完整；剩对比 4.78",
+        "prevent": "烘制底图同步作 verify base（Q29 军规）"
+      },
+      {
+        "round": 3,
+        "improve": "字色提亮至 255,252,245，对比 5.02–6.58 全绿；diagnose 复核无 FAIL；1:1 目验老妇数钱场景与主题呼应",
+        "prevent": "暗底浅字对比不足先查底色中位与字色亮度，别急着改字号"
+      }
+    ],
+    "score": 90,
+    "final_png": "人情比钱更贵_原作约翰格奥尔格迈耶圈作数钱的老妇19世纪木板油画私人藏暗室数币_20261123_1252.png"
+  }
+}
