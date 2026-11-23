@@ -1,0 +1,146 @@
+{
+  "id": "Q35",
+  "no": 103,
+  "title": "太好说话，没办法维护自己的利益",
+  "body": "好的买卖交换关系，|一定是在尊重彼此的<a>规则和原则</a>的基础上，再谈感情和交情的，|在没有<a>公平交换</a>之前，就谈交情，谈感情的，|往往都是想借着交情和感情去打破规则。|通过买卖和服务认识的客户关系，|是有可能发展成为朋友关系的，|那是在彼此都能尊重<a>规则和原则</a>的基础上，|有了初步的买卖交换，彼此会更加了解和信任，|才会去拉近和促进关系，而不是先拉近关系，再去推动工作，|这样往往对彼此都是不利的，搞不好最后不是翻脸就是闹得不愉快。",
+  "en": "A fair exchange comes before any talk of affection. Only when both sides respect the rules and principles of the deal should friendship enter the picture. To lead with sentiments before an equitable exchange is usually an attempt to bend the rules. A client relationship can grow into a friendship — but only after a fair trade builds trust, not by skipping the trade and rushing to closeness.",
+  "credit": "原作 威廉·卡尔夫（Willem Kalf, 1619–1693）《有银壶的静物》约1660 · 布面油画",
+  "source": {
+    "doc": "醒与悟1.0.md",
+    "anchor": "s307",
+    "page": 122,
+    "segments": [
+      "好的买卖交换关系，一定是在尊重彼此的规则和原则的基础上，再谈感情和交情的，在没有公平交换之前，就谈交情，谈感情的，往往都是想借着交情和感情去打破规则。通过买卖和服务认识的客户关系，是有可能发展成为朋友关系的，那是在彼此都能尊重规则和原则的基础上，有了初步的买卖交换，彼此会更加了解和信任，才会去拉近和促进关系，而不是先拉近关系，再去推动工作，这样往往对彼此都是不利的，搞不好最后不是翻脸就是闹得不愉快。"
+    ],
+    "flat_text": "好的买卖交换关系，一定是在尊重彼此的规则和原则的基础上，再谈感情和交情的，在没有公平交换之前，就谈交情，谈感情的，往往都是想借着交情和感情去打破规则。\n\n通过买卖和服务认识的客户关系，是有可能发展成为朋友关系的，那是在彼此都能尊重规则和原则的基础上，有了初步的买卖交换，彼此会更加了解和信任，才会去拉近和促进关系，而不是先拉近关系，再去推动工作，这样往往对彼此都是不利的，搞不好最后不是翻脸就是闹得不愉快。\n\n一个人支付了相应的费用，就给予相应的服务，但不可以说花一点钱得到题值服务，给予额外超值服务，就等于降低自己的价值，尤其是对特低认知，低胸买力的人，最忌讳的是好心额外赠送或“优惠”，给予额外超值服务，就意味着你给的东西，可能是超出对方认知圈的价值，某种程度来说，不仅无益于他，还会让自已的产品，自己的知识和服务贬值。"
+  },
+  "meta": {
+    "essay": "太好说话，没办法维护自己的利益",
+    "artist": "威廉·卡尔夫（Willem Kalf, 1619–1693）",
+    "painting": "有银壶的静物",
+    "year": "约1660",
+    "medium": "布面油画",
+    "collection": "私人藏（Google Art Project 图版）",
+    "license": "Public domain（PD-old-auto-expired，1693 年卒）",
+    "layout": "亮底深字＋文字压上半幅极净灰米色背景（y200–500 中位 143–186、std 2–5），下半保留荷兰静物的银杯、烟斗与鲱鱼——『先有公平交换再谈交情』的视觉双关：桌上每件器物都各安其位、精确计量，正如规则先于感情；宋体标题＋思源宋正文十行按标点手工断行＋Times 英文＋霞鹜文楷款识四体混排；与 Q34 亮底孤帆／华文中宋／中部块全面对跖；暗底浅字，上半净暗区 std 8–16，银壶器物压在下半不抢字区",
+    "accent": "绛朱 168,52,32 ＋ 1px 发丝下划线（8.66%）",
+    "score": 91,
+    "final_png": "太好说话没办法维护自己的利益_原作威廉卡尔夫有银壶的静物约1660布面油画荷兰黄金时代暗室银金器_20261123_0753.png",
+    "draft": "v3-Kalf暗底",
+    "band_roles": [
+      "title",
+      "body1",
+      "body2",
+      "body3",
+      "body4",
+      "body5",
+      "body6",
+      "body7",
+      "body8",
+      "body9",
+      "body10",
+      "en1",
+      "en2",
+      "en3",
+      "en4",
+      "credit"
+    ],
+    "body_band_slice": [
+      1,
+      11
+    ]
+  },
+  "params": {
+    "title_font": "song",
+    "body_font": "serif",
+    "en_font": "times",
+    "credit_font": "kai",
+    "inline_accent": "<a>",
+    "accent_underline": "1:9:168,52,32:200",
+    "accent_fill": "168,52,32",
+    "fill": "244,236,212",
+    "en_fill": "232,224,200",
+    "credit_fill": "226,216,190",
+    "pos": "top",
+    "align": "center",
+    "x_shift": "0",
+    "y_shift": "40",
+    "wrap": "0",
+    "block_width": "80%",
+    "en_width": "1240",
+    "title_size": "82",
+    "body_size": "32",
+    "en_size": "26",
+    "credit_size": "21",
+    "title_gap": "30",
+    "en_gap": "18",
+    "credit_gap": "26",
+    "title_lh": "1.16",
+    "line_gap": "1.20",
+    "scrim": "0",
+    "text_grain": "0.05",
+    "grain": "0.0",
+    "body_align": "left",
+    "title_align": "center"
+  },
+  "pdca": {
+    "go": "从 md 文档《醒与悟1.0.md》锚点 s286（印刷 121）起筛除：s286 人一主动（与 Q32 神秘感链撞）、s287 没目的（弱势词）、s288 钱保护系统（风水词）、s289 优质关系（与 Q30/Q32 关系链撞）、s290 专一（过长）、s291 精神需求（弱势词）、s292 穷人命运（弱势词）、s293 讨厌勇气（八字词）、s294 蠢好人（弱势词）、s295 社交积分（过长+OCR）、s296 真相（过长+OCR）、s297 假好学（偏印术数词）、s300 社交真伪（与 Q30/Q32 关系链撞）、s301 可怜之人（穷命表述+OCR）、s302 商业本质（命理词）、s303 印高级感（风水词）、s304 价值交换（弱势词）、s305 价值留不住人（弱势词）、s306 消费观财运（风水词）、s308 道德感穷（弱势词）整篇跳过；s307 段0+1 共201字定稿（段2 OCR 损坏整段跳过），逐字断言 6/6",
+    "see": {
+      "contrast": [
+        10.56,
+        8.74,
+        8.93,
+        8.87,
+        8.44,
+        8.57,
+        8.7,
+        9.11,
+        9.38,
+        9.34,
+        9.02,
+        8.65,
+        8.43,
+        8.51,
+        8.99,
+        8.25
+      ],
+      "accent_ratio": 0.0866,
+      "bbox": {
+        "top": 120,
+        "bottom": 1212,
+        "left": 151,
+        "right": 151
+      },
+      "bg_std_max": 23.2,
+      "accent_pixels": 3441,
+      "body_ink": 39719,
+      "layers": 16,
+      "measured_by": "art_typeset.verify.verify(dark_bg=True, body_band_slice=(1,11), roles=meta.band_roles)",
+      "measured_at": "2026-11-23 07:53",
+      "ok": true
+    },
+    "think": {
+      "root_cause": "首渲以亮底口径排 Claesz 静物：对比 10+、强调 8.54% 均达标，唯一 FAIL 是英文/款识带 bg_std 33.4——它们落在银壶与灰墙的器物交界区。diagnose 定位超标带 y633–836，目验确认银壶是画面主体、烘底会毁画，且局部柔光（只处理 x<900）实测 std 仍 33（方差来自右侧壶）。按诊断决策树「整幅纹理→换画」",
+      "prevention": "① 长文（>180字）配静物画时，选器物集中在下半、上半有大片纯净区的构图——Kalf《银壶静物》y200–800 中位 24–25、std 8–16 天然净暗区胜出；② 换暗底后必须同步改 verify 极性（CLI 默认 dark，勿传 --light），首次渲染传错 --light 得 0.4:1 假 FAIL；③ 诊断给出「柔光」选项不等于必须执行，1:1 目验确认会毁画就换画（诊断+目验双保险）"
+    },
+    "iterations": [
+      {
+        "round": 1,
+        "improve": "Claesz 亮底首渲唯一 FAIL 是 bg_std 33.4（英文/款识压银壶交界区）；按新元规则先跑 diagnose 定位超标带，不直接调参",
+        "prevent": "诊断输出 std 沿 y 分布＋行动清单，避免盲目调字号/位移"
+      },
+      {
+        "round": 2,
+        "improve": "目验确认银壶是主体不可烘；试局部柔光（x<900）std 仍 33，方差来自右侧壶——两次无效即换维度（GSTD 时间盒）",
+        "prevent": "不为救一张画反复微调；换画是正解"
+      },
+      {
+        "round": 3,
+        "improve": "换 Kalf《银壶静物》暗底＋奶油字：对比 8.25–9.38、强调 8.66%、四边 120/1212/151/151、std 23.2 全绿；diagnose 确认无 FAIL；全幅＋放大目验银壶金杯完整、绛朱醒目",
+        "prevent": "极性切换后重渲，避免 --light 误用导致假 FAIL"
+      }
+    ],
+    "score": 91,
+    "final_png": "太好说话没办法维护自己的利益_原作威廉卡尔夫有银壶的静物约1660布面油画荷兰黄金时代暗室银金器_20261123_0753.png"
+  }
+}
